@@ -1,5 +1,5 @@
 # 🔬 BioThreat Intelligence Platform
-### End-to-End Power BI Dashboard | Drug Discovery × Conservation Biology
+### "A Species-Driven Risk & Drug Discovery Analytics Engine"
 
 
 ---
