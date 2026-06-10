@@ -1,0 +1,5 @@
+species_name,conservation_status,population_trend,main_threats,cites_listing,population_estimate,range_countries,protected_areas,research_impact,sustainable_collection,aquaculture_feasible,economic_value_million,conservation_funding,research_institutions,active_conservation_programs,last_assessment_year
+Halichondria okadai,Endangered,Stable,Habitat Loss,Not Listed,61412,23,13,77.0,True,True,132.6,2627116.0,41,8,2024
+Conus geographus,Critical,Declining,Overharvesting,Appendix II,3674,24,15,72.1,True,True,352.8,7833041.0,42,0,2023
+Bothrops jararaca,Endangered,Stable,Pollution,Appendix II,75757,14,10,67.2,True,True,308.6,749150.0,41,1,2025
+Phyllobates terribilis,Vulnerable,Declining,Habitat Loss,Appendix I,91552,23,6,82.3,True,False,237.2,9050887.0,26,7,2023

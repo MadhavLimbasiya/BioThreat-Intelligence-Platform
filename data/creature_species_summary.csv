@@ -1,0 +1,9 @@
+species_key,scientific_name,common_name,geographic_region,total_occurrences,countries_present,conservation_status,research_priority,collection_difficulty,commercial_potential,last_updated
+CREATURE-000,Halichondria okadai,Marine Sponge,North Pacific,94,8,Endangered,72.6,High,91.4,2026-03-18
+CREATURE-001,Conus geographus,Cone Snail,Indo-Pacific,100,8,Vulnerable,79.5,Very High,92.6,2026-03-18
+CREATURE-002,Bothrops jararaca,Pit Viper,South America,125,6,Endangered,92.1,Very High,77.4,2026-03-18
+CREATURE-003,Phyllobates terribilis,Poison Frog,Colombia,114,14,Vulnerable,76.5,High,83.5,2026-03-18
+CREATURE-004,Bugula neritina,Bryozoan,Global,89,12,Critical,91.5,Extreme,74.6,2026-03-18
+CREATURE-005,Salinispora tropica,Marine Bacteria,Tropical,101,14,Vulnerable,86.8,Very High,70.2,2026-03-18
+CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,Deep Atlantic,113,11,Endangered,80.6,Very High,90.2,2026-03-18
+CREATURE-007,Pandinus imperator,Scorpion,West Africa,102,11,Endangered,87.9,High,67.6,2026-03-18

@@ -1,0 +1,839 @@
+occurrence_id,species_key,scientific_name,common_name,decimal_latitude,decimal_longitude,country,collection_date,depth_m,habitat,threat_level,basis_of_record,data_quality
+OCC-000-0000,CREATURE-000,Halichondria okadai,Marine Sponge,81.6448255,-120.229585,Anguilla,2024-11-30,25,Coral Reef,Low,Preserved Specimen,Low
+OCC-000-0001,CREATURE-000,Halichondria okadai,Marine Sponge,-24.262343,-60.164645,Burundi,2024-11-21,759,Coral Reef,Low,Observation,High
+OCC-000-0002,CREATURE-000,Halichondria okadai,Marine Sponge,56.395715,-133.325072,Nauru,2023-04-26,281,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0003,CREATURE-000,Halichondria okadai,Marine Sponge,-82.0013695,-129.697749,Cuba,2022-05-16,250,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0004,CREATURE-000,Halichondria okadai,Marine Sponge,71.603172,-165.753610,Monaco,2022-03-15,228,Coral Reef,Low,Observation,Medium
+OCC-000-0005,CREATURE-000,Halichondria okadai,Marine Sponge,84.4520245,112.563230,Italy,2022-04-23,142,Coral Reef,Low,Preserved Specimen,Low
+OCC-000-0006,CREATURE-000,Halichondria okadai,Marine Sponge,68.1798025,-30.647502,Sudan,2025-07-22,754,Coral Reef,Low,Observation,High
+OCC-000-0007,CREATURE-000,Halichondria okadai,Marine Sponge,-47.141780,46.889378,Guam,2022-08-06,104,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0008,CREATURE-000,Halichondria okadai,Marine Sponge,-32.2021525,0.707823,Bosnia and Herzegovina,2021-09-02,692,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0009,CREATURE-000,Halichondria okadai,Marine Sponge,-64.037895,12.725585,Tanzania,2022-12-05,758,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0010,CREATURE-000,Halichondria okadai,Marine Sponge,-18.993222,-156.672724,Saint Lucia,2023-07-04,913,Coral Reef,Low,Observation,High
+OCC-000-0011,CREATURE-000,Halichondria okadai,Marine Sponge,-56.4922325,23.224098,Belgium,2023-12-20,558,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0012,CREATURE-000,Halichondria okadai,Marine Sponge,78.7492105,152.065263,Turks and Caicos Islands,2025-07-08,89,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0013,CREATURE-000,Halichondria okadai,Marine Sponge,64.9817875,-76.765851,Romania,2021-07-22,604,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0014,CREATURE-000,Halichondria okadai,Marine Sponge,87.5065215,-57.648047,Sierra Leone,2022-08-27,432,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0015,CREATURE-000,Halichondria okadai,Marine Sponge,-68.581005,-55.021345,Tonga,2021-09-17,32,Coral Reef,Low,Observation,High
+OCC-000-0016,CREATURE-000,Halichondria okadai,Marine Sponge,-15.3820285,63.422802,North Macedonia,2025-05-18,30,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0017,CREATURE-000,Halichondria okadai,Marine Sponge,-46.3378735,18.739393,Guinea,2022-04-03,95,Coral Reef,Low,Literature,Medium
+OCC-000-0018,CREATURE-000,Halichondria okadai,Marine Sponge,-18.333688,167.911349,Barbados,2024-04-02,223,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0019,CREATURE-000,Halichondria okadai,Marine Sponge,-44.060320,106.764160,Saint Lucia,2022-06-07,238,Coral Reef,Low,Observation,High
+OCC-000-0020,CREATURE-000,Halichondria okadai,Marine Sponge,34.087031,23.718590,Faroe Islands,2026-02-26,517,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0021,CREATURE-000,Halichondria okadai,Marine Sponge,81.7986265,119.010119,Cyprus,2024-08-18,616,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0022,CREATURE-000,Halichondria okadai,Marine Sponge,-74.9842715,-57.030753,Swaziland,2021-05-14,27,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0023,CREATURE-000,Halichondria okadai,Marine Sponge,-5.3212165,35.373707,Ethiopia,2021-07-15,574,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0024,CREATURE-000,Halichondria okadai,Marine Sponge,62.2512355,-11.058598,Croatia,2024-06-26,203,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0025,CREATURE-000,Halichondria okadai,Marine Sponge,16.201629,165.128470,Kuwait,2021-12-03,733,Coral Reef,Low,Literature,Medium
+OCC-000-0026,CREATURE-000,Halichondria okadai,Marine Sponge,-52.5182705,-47.592865,Samoa,2024-01-06,665,Coral Reef,Low,Literature,Medium
+OCC-000-0027,CREATURE-000,Halichondria okadai,Marine Sponge,-19.4708365,133.847215,Japan,2025-09-12,718,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0028,CREATURE-000,Halichondria okadai,Marine Sponge,17.213257,14.345362,Cyprus,2026-03-13,558,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0029,CREATURE-000,Halichondria okadai,Marine Sponge,-52.866856,93.549845,Lithuania,2021-08-30,429,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0030,CREATURE-000,Halichondria okadai,Marine Sponge,-77.352295,-121.132570,Cape Verde,2024-05-06,225,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0031,CREATURE-000,Halichondria okadai,Marine Sponge,23.3227025,140.194662,Bahrain,2023-02-17,459,Coral Reef,Low,Observation,High
+OCC-000-0032,CREATURE-000,Halichondria okadai,Marine Sponge,69.9575805,71.282368,Marshall Islands,2022-06-19,603,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0033,CREATURE-000,Halichondria okadai,Marine Sponge,58.5054455,-173.836174,Pitcairn Islands,2024-10-23,284,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0034,CREATURE-000,Halichondria okadai,Marine Sponge,54.141875,-36.749319,Seychelles,2024-05-31,828,Coral Reef,Low,Preserved Specimen,Low
+OCC-000-0035,CREATURE-000,Halichondria okadai,Marine Sponge,-60.0554415,-22.428319,Jordan,2021-12-30,890,Coral Reef,Low,Observation,High
+OCC-000-0036,CREATURE-000,Halichondria okadai,Marine Sponge,-89.1288425,-38.594084,Macao,2025-01-07,6,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0037,CREATURE-000,Halichondria okadai,Marine Sponge,46.2797615,-122.871125,Trinidad and Tobago,2024-05-02,777,Coral Reef,Low,Observation,Medium
+OCC-000-0038,CREATURE-000,Halichondria okadai,Marine Sponge,81.516698,92.549434,New Caledonia,2022-03-15,825,Coral Reef,Low,Observation,High
+OCC-000-0039,CREATURE-000,Halichondria okadai,Marine Sponge,10.3717345,-93.269022,Mauritius,2025-12-23,163,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0040,CREATURE-000,Halichondria okadai,Marine Sponge,52.3657295,-179.692966,Netherlands Antilles,2022-10-30,714,Coral Reef,Low,Observation,High
+OCC-000-0041,CREATURE-000,Halichondria okadai,Marine Sponge,-84.771752,-119.941473,Vanuatu,2023-01-09,432,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0042,CREATURE-000,Halichondria okadai,Marine Sponge,-7.4523045,-51.445018,Azerbaijan,2022-05-31,348,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0043,CREATURE-000,Halichondria okadai,Marine Sponge,62.298718,-137.717632,Belize,2024-11-13,284,Coral Reef,Low,Observation,High
+OCC-000-0044,CREATURE-000,Halichondria okadai,Marine Sponge,-71.4209075,105.994444,Seychelles,2021-11-01,159,Coral Reef,Low,Observation,High
+OCC-000-0045,CREATURE-000,Halichondria okadai,Marine Sponge,87.1005125,75.165283,Yemen,2023-12-16,220,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0046,CREATURE-000,Halichondria okadai,Marine Sponge,-18.849404,103.292704,Tunisia,2024-03-29,980,Coral Reef,Low,Observation,High
+OCC-000-0047,CREATURE-000,Halichondria okadai,Marine Sponge,-33.145854,109.532383,Saudi Arabia,2024-11-09,781,Coral Reef,Low,Observation,High
+OCC-000-0048,CREATURE-000,Halichondria okadai,Marine Sponge,-36.0039225,-12.648589,Iran,2026-03-09,344,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0049,CREATURE-000,Halichondria okadai,Marine Sponge,84.4503125,20.478606,Kazakhstan,2025-09-15,104,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0050,CREATURE-000,Halichondria okadai,Marine Sponge,31.1948885,-115.036366,Egypt,2022-05-01,94,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0051,CREATURE-000,Halichondria okadai,Marine Sponge,0.7541535,-168.707317,Namibia,2023-12-24,389,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0052,CREATURE-000,Halichondria okadai,Marine Sponge,67.958191,-61.771690,Albania,2021-07-24,99,Coral Reef,Low,Literature,High
+OCC-000-0053,CREATURE-000,Halichondria okadai,Marine Sponge,79.410411,-148.392388,Denmark,2021-07-18,367,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0054,CREATURE-000,Halichondria okadai,Marine Sponge,-81.5676485,-2.602553,Barbados,2023-10-12,867,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0055,CREATURE-000,Halichondria okadai,Marine Sponge,-15.2468285,179.154708,Libyan Arab Jamahiriya,2022-04-12,352,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0056,CREATURE-000,Halichondria okadai,Marine Sponge,-54.4828095,126.576427,Morocco,2023-07-28,618,Coral Reef,Low,Literature,Medium
+OCC-000-0057,CREATURE-000,Halichondria okadai,Marine Sponge,36.962706,38.538654,Comoros,2021-09-05,270,Coral Reef,Low,Observation,Medium
+OCC-000-0058,CREATURE-000,Halichondria okadai,Marine Sponge,86.8943355,51.418842,Guinea,2023-04-29,826,Coral Reef,Low,Observation,High
+OCC-000-0059,CREATURE-000,Halichondria okadai,Marine Sponge,35.365979,-150.917068,Peru,2024-06-22,44,Coral Reef,Low,Observation,High
+OCC-000-0060,CREATURE-000,Halichondria okadai,Marine Sponge,83.457556,-127.162307,Bahamas,2023-03-22,747,Coral Reef,Low,Observation,Medium
+OCC-000-0061,CREATURE-000,Halichondria okadai,Marine Sponge,1.080848,-121.336636,Egypt,2022-03-02,470,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0062,CREATURE-000,Halichondria okadai,Marine Sponge,53.958110,60.847567,Burundi,2023-04-26,549,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0063,CREATURE-000,Halichondria okadai,Marine Sponge,-15.2286065,68.371554,Egypt,2025-07-31,127,Coral Reef,Low,Observation,Medium
+OCC-000-0064,CREATURE-000,Halichondria okadai,Marine Sponge,-69.764023,57.904006,Sri Lanka,2025-07-07,996,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0065,CREATURE-000,Halichondria okadai,Marine Sponge,57.726826,-127.435652,Australia,2024-06-20,944,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0066,CREATURE-000,Halichondria okadai,Marine Sponge,55.112968,-172.076939,Bermuda,2025-11-03,387,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0067,CREATURE-000,Halichondria okadai,Marine Sponge,-26.547364,-90.712404,Ireland,2023-08-21,80,Coral Reef,Low,Literature,High
+OCC-000-0068,CREATURE-000,Halichondria okadai,Marine Sponge,-32.622648,35.306864,United Kingdom,2021-07-02,565,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0069,CREATURE-000,Halichondria okadai,Marine Sponge,11.729822,-178.842844,Iceland,2022-07-14,300,Coral Reef,Low,Preserved Specimen,Low
+OCC-000-0070,CREATURE-000,Halichondria okadai,Marine Sponge,32.1403795,-26.857986,Jamaica,2024-09-09,849,Coral Reef,Low,Literature,High
+OCC-000-0071,CREATURE-000,Halichondria okadai,Marine Sponge,59.187923,175.339452,Saint Barthelemy,2023-08-23,643,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0072,CREATURE-000,Halichondria okadai,Marine Sponge,-39.0246795,-20.706198,Cuba,2026-01-19,633,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0073,CREATURE-000,Halichondria okadai,Marine Sponge,65.472524,111.088834,Bahamas,2024-12-12,906,Coral Reef,Low,Observation,High
+OCC-000-0074,CREATURE-000,Halichondria okadai,Marine Sponge,-74.6548135,-153.080040,Myanmar,2023-08-05,882,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0075,CREATURE-000,Halichondria okadai,Marine Sponge,52.5730875,-95.478948,Azerbaijan,2026-01-05,370,Coral Reef,Low,Literature,High
+OCC-000-0076,CREATURE-000,Halichondria okadai,Marine Sponge,-68.495243,-80.235982,Bangladesh,2024-03-08,591,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0077,CREATURE-000,Halichondria okadai,Marine Sponge,-26.862935,36.775349,British Indian Ocean Territory (Chagos Archipelago),2025-12-01,196,Coral Reef,Low,Literature,High
+OCC-000-0078,CREATURE-000,Halichondria okadai,Marine Sponge,62.9210795,-47.814142,Mozambique,2024-03-07,721,Coral Reef,Low,Observation,Medium
+OCC-000-0079,CREATURE-000,Halichondria okadai,Marine Sponge,76.263958,-135.985494,Italy,2024-06-30,71,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0080,CREATURE-000,Halichondria okadai,Marine Sponge,61.726947,100.666834,Germany,2025-11-18,46,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0081,CREATURE-000,Halichondria okadai,Marine Sponge,-35.1695885,179.556395,Saint Barthelemy,2022-10-12,677,Coral Reef,Low,Observation,High
+OCC-000-0082,CREATURE-000,Halichondria okadai,Marine Sponge,-18.699647,32.485908,Bulgaria,2024-07-26,233,Coral Reef,Low,Preserved Specimen,Medium
+OCC-000-0083,CREATURE-000,Halichondria okadai,Marine Sponge,-9.470148,65.470574,Germany,2025-11-08,791,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0084,CREATURE-000,Halichondria okadai,Marine Sponge,-70.526856,-174.998802,Kuwait,2024-04-24,296,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0085,CREATURE-000,Halichondria okadai,Marine Sponge,61.127454,-126.322974,Barbados,2023-11-24,81,Coral Reef,Low,Observation,High
+OCC-000-0086,CREATURE-000,Halichondria okadai,Marine Sponge,45.7973885,-37.621611,Bulgaria,2025-11-16,875,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0087,CREATURE-000,Halichondria okadai,Marine Sponge,-71.533974,-48.850804,Heard Island and McDonald Islands,2022-08-19,238,Coral Reef,Low,Observation,High
+OCC-000-0088,CREATURE-000,Halichondria okadai,Marine Sponge,27.624274,111.637921,Romania,2022-09-20,887,Coral Reef,Low,Observation,High
+OCC-000-0089,CREATURE-000,Halichondria okadai,Marine Sponge,85.550430,103.972873,Algeria,2024-07-19,103,Coral Reef,Low,Literature,High
+OCC-000-0090,CREATURE-000,Halichondria okadai,Marine Sponge,58.874917,-19.272259,Venezuela,2024-07-11,389,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0091,CREATURE-000,Halichondria okadai,Marine Sponge,-53.9515035,-38.015939,Brazil,2025-08-28,284,Coral Reef,Low,Literature,Medium
+OCC-000-0092,CREATURE-000,Halichondria okadai,Marine Sponge,58.504841,-96.544539,Faroe Islands,2022-08-13,464,Coral Reef,Low,Preserved Specimen,High
+OCC-000-0093,CREATURE-000,Halichondria okadai,Marine Sponge,-33.4595335,4.082453,Costa Rica,2024-08-24,650,Coral Reef,Low,Observation,High
+OCC-001-0000,CREATURE-001,Conus geographus,Cone Snail,-19.137362,91.339422,Liechtenstein,2022-06-18,0,Tropical Waters,High,Literature,High
+OCC-001-0001,CREATURE-001,Conus geographus,Cone Snail,-76.3637755,-130.447639,North Macedonia,2023-04-29,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0002,CREATURE-001,Conus geographus,Cone Snail,-15.729217,-156.331099,Afghanistan,2022-11-16,0,Tropical Waters,High,Observation,Medium
+OCC-001-0003,CREATURE-001,Conus geographus,Cone Snail,-54.883366,162.047638,Estonia,2022-01-06,0,Tropical Waters,High,Observation,Medium
+OCC-001-0004,CREATURE-001,Conus geographus,Cone Snail,28.6043165,116.181171,Romania,2023-05-07,0,Tropical Waters,High,Observation,High
+OCC-001-0005,CREATURE-001,Conus geographus,Cone Snail,-87.404310,-119.938167,Belarus,2025-12-07,0,Tropical Waters,High,Preserved Specimen,Medium
+OCC-001-0006,CREATURE-001,Conus geographus,Cone Snail,-49.9885445,112.911559,Argentina,2025-05-19,0,Tropical Waters,High,Observation,High
+OCC-001-0007,CREATURE-001,Conus geographus,Cone Snail,66.366221,116.634652,Cameroon,2023-05-11,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0008,CREATURE-001,Conus geographus,Cone Snail,-78.7716505,-14.505060,Haiti,2025-09-14,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0009,CREATURE-001,Conus geographus,Cone Snail,-79.290802,12.097368,Cote d'Ivoire,2024-08-14,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0010,CREATURE-001,Conus geographus,Cone Snail,89.0285755,-124.813096,Guinea,2025-02-09,0,Tropical Waters,High,Observation,High
+OCC-001-0011,CREATURE-001,Conus geographus,Cone Snail,19.0860995,153.215109,San Marino,2021-12-24,0,Tropical Waters,High,Observation,High
+OCC-001-0012,CREATURE-001,Conus geographus,Cone Snail,-26.4513075,-92.757530,South Georgia and the South Sandwich Islands,2025-04-06,0,Tropical Waters,High,Preserved Specimen,Medium
+OCC-001-0013,CREATURE-001,Conus geographus,Cone Snail,20.6744385,-166.692921,Christmas Island,2024-11-21,0,Tropical Waters,High,Observation,Medium
+OCC-001-0014,CREATURE-001,Conus geographus,Cone Snail,-0.829644,41.036821,Spain,2024-07-22,0,Tropical Waters,High,Observation,High
+OCC-001-0015,CREATURE-001,Conus geographus,Cone Snail,-23.383114,-36.759775,Cayman Islands,2025-02-22,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0016,CREATURE-001,Conus geographus,Cone Snail,-60.983302,25.375523,Tunisia,2021-05-26,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0017,CREATURE-001,Conus geographus,Cone Snail,36.349890,-60.581808,Cook Islands,2025-04-16,0,Tropical Waters,High,Literature,High
+OCC-001-0018,CREATURE-001,Conus geographus,Cone Snail,33.561709,7.721436,Gambia,2025-04-24,0,Tropical Waters,High,Observation,High
+OCC-001-0019,CREATURE-001,Conus geographus,Cone Snail,-28.9053005,-60.318830,Anguilla,2024-07-04,0,Tropical Waters,High,Observation,High
+OCC-001-0020,CREATURE-001,Conus geographus,Cone Snail,16.962397,-3.765707,Fiji,2025-07-13,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0021,CREATURE-001,Conus geographus,Cone Snail,-15.0729545,8.520142,Norway,2023-10-03,0,Tropical Waters,High,Preserved Specimen,Medium
+OCC-001-0022,CREATURE-001,Conus geographus,Cone Snail,53.939314,-2.215269,Wallis and Futuna,2021-05-06,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0023,CREATURE-001,Conus geographus,Cone Snail,-19.8805795,-84.132133,Mozambique,2026-01-08,0,Tropical Waters,High,Observation,High
+OCC-001-0024,CREATURE-001,Conus geographus,Cone Snail,-18.739416,-159.460824,Botswana,2024-03-10,0,Tropical Waters,High,Literature,Low
+OCC-001-0025,CREATURE-001,Conus geographus,Cone Snail,2.794676,-11.595773,Jordan,2024-03-28,0,Tropical Waters,High,Literature,High
+OCC-001-0026,CREATURE-001,Conus geographus,Cone Snail,47.2840825,-117.913141,Hungary,2025-09-15,0,Tropical Waters,High,Preserved Specimen,Medium
+OCC-001-0027,CREATURE-001,Conus geographus,Cone Snail,-38.9761175,-43.246895,Aruba,2024-10-01,0,Tropical Waters,High,Preserved Specimen,Low
+OCC-001-0028,CREATURE-001,Conus geographus,Cone Snail,-89.546002,99.130110,Uzbekistan,2025-03-29,0,Tropical Waters,High,Literature,Medium
+OCC-001-0029,CREATURE-001,Conus geographus,Cone Snail,-37.1087845,15.539914,Jersey,2021-07-22,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0030,CREATURE-001,Conus geographus,Cone Snail,88.304945,-2.725207,Nigeria,2022-10-11,0,Tropical Waters,High,Observation,High
+OCC-001-0031,CREATURE-001,Conus geographus,Cone Snail,-56.546147,-18.765710,Madagascar,2022-10-03,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0032,CREATURE-001,Conus geographus,Cone Snail,19.627137,-4.881888,Iraq,2024-09-10,0,Tropical Waters,High,Literature,High
+OCC-001-0033,CREATURE-001,Conus geographus,Cone Snail,58.8239675,-111.662882,Congo,2023-04-24,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0034,CREATURE-001,Conus geographus,Cone Snail,11.7760355,-86.569784,Nicaragua,2024-01-20,0,Tropical Waters,High,Observation,Low
+OCC-001-0035,CREATURE-001,Conus geographus,Cone Snail,19.004973,114.171548,Syrian Arab Republic,2021-03-17,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0036,CREATURE-001,Conus geographus,Cone Snail,-12.9821855,-67.159032,Jersey,2025-02-19,0,Tropical Waters,High,Observation,Medium
+OCC-001-0037,CREATURE-001,Conus geographus,Cone Snail,72.849474,171.492405,Gibraltar,2023-07-14,0,Tropical Waters,High,Observation,Medium
+OCC-001-0038,CREATURE-001,Conus geographus,Cone Snail,28.6913665,-65.269933,Malawi,2023-07-29,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0039,CREATURE-001,Conus geographus,Cone Snail,-44.448814,173.717803,Belize,2022-08-17,0,Tropical Waters,High,Observation,Medium
+OCC-001-0040,CREATURE-001,Conus geographus,Cone Snail,88.201907,159.807534,Niger,2022-11-19,0,Tropical Waters,High,Observation,Medium
+OCC-001-0041,CREATURE-001,Conus geographus,Cone Snail,-26.9529415,-13.344820,Czech Republic,2025-03-29,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0042,CREATURE-001,Conus geographus,Cone Snail,-50.4449715,-166.886719,Aruba,2022-06-07,0,Tropical Waters,High,Observation,High
+OCC-001-0043,CREATURE-001,Conus geographus,Cone Snail,37.543440,148.175214,Thailand,2025-01-19,0,Tropical Waters,High,Observation,Medium
+OCC-001-0044,CREATURE-001,Conus geographus,Cone Snail,32.249846,42.501321,Turks and Caicos Islands,2024-05-10,0,Tropical Waters,High,Observation,High
+OCC-001-0045,CREATURE-001,Conus geographus,Cone Snail,-37.8066895,26.146870,Lithuania,2023-03-17,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0046,CREATURE-001,Conus geographus,Cone Snail,-50.386620,172.218461,Portugal,2021-03-27,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0047,CREATURE-001,Conus geographus,Cone Snail,-61.388191,48.248626,Cyprus,2022-02-01,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0048,CREATURE-001,Conus geographus,Cone Snail,49.038225,69.403322,Australia,2023-12-30,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0049,CREATURE-001,Conus geographus,Cone Snail,-57.423049,65.061079,Burkina Faso,2025-03-20,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0050,CREATURE-001,Conus geographus,Cone Snail,89.201532,105.149257,Monaco,2024-03-08,0,Tropical Waters,High,Observation,High
+OCC-001-0051,CREATURE-001,Conus geographus,Cone Snail,28.802399,148.915210,Suriname,2024-10-21,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0052,CREATURE-001,Conus geographus,Cone Snail,45.500356,49.104699,Switzerland,2025-09-28,0,Tropical Waters,High,Observation,High
+OCC-001-0053,CREATURE-001,Conus geographus,Cone Snail,29.699022,-94.552751,Samoa,2025-07-07,0,Tropical Waters,High,Observation,High
+OCC-001-0054,CREATURE-001,Conus geographus,Cone Snail,30.8146815,-40.847597,Sao Tome and Principe,2022-06-11,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0055,CREATURE-001,Conus geographus,Cone Snail,81.1709385,-31.119604,Seychelles,2025-02-04,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0056,CREATURE-001,Conus geographus,Cone Snail,40.0830215,156.483005,Dominican Republic,2022-07-31,0,Tropical Waters,High,Observation,Low
+OCC-001-0057,CREATURE-001,Conus geographus,Cone Snail,-69.200721,-26.600866,Dominica,2022-07-26,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0058,CREATURE-001,Conus geographus,Cone Snail,-4.178618,109.992016,Belgium,2021-11-24,0,Tropical Waters,High,Observation,High
+OCC-001-0059,CREATURE-001,Conus geographus,Cone Snail,-27.9212185,25.640506,Puerto Rico,2021-12-21,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0060,CREATURE-001,Conus geographus,Cone Snail,-32.5674615,-145.517398,Israel,2023-03-31,0,Tropical Waters,High,Preserved Specimen,Low
+OCC-001-0061,CREATURE-001,Conus geographus,Cone Snail,55.6560695,70.141207,Israel,2021-07-08,0,Tropical Waters,High,Observation,High
+OCC-001-0062,CREATURE-001,Conus geographus,Cone Snail,22.7814175,29.098769,United Kingdom,2025-01-21,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0063,CREATURE-001,Conus geographus,Cone Snail,-84.756932,129.071403,Hong Kong,2023-08-05,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0064,CREATURE-001,Conus geographus,Cone Snail,4.4245355,-19.683553,Sao Tome and Principe,2023-02-27,0,Tropical Waters,High,Preserved Specimen,Medium
+OCC-001-0065,CREATURE-001,Conus geographus,Cone Snail,22.4801685,108.954965,San Marino,2024-11-18,0,Tropical Waters,High,Observation,High
+OCC-001-0066,CREATURE-001,Conus geographus,Cone Snail,71.934383,-61.599191,Libyan Arab Jamahiriya,2022-04-21,0,Tropical Waters,High,Literature,Medium
+OCC-001-0067,CREATURE-001,Conus geographus,Cone Snail,26.9938295,80.727063,Antarctica (the territory South of 60 deg S),2023-02-25,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0068,CREATURE-001,Conus geographus,Cone Snail,89.549395,37.065859,Saint Kitts and Nevis,2022-01-12,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0069,CREATURE-001,Conus geographus,Cone Snail,35.4640875,-111.480352,Nigeria,2023-11-17,0,Tropical Waters,High,Preserved Specimen,Medium
+OCC-001-0070,CREATURE-001,Conus geographus,Cone Snail,15.769006,137.770015,Mongolia,2024-07-10,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0071,CREATURE-001,Conus geographus,Cone Snail,-67.465526,165.073591,Japan,2021-11-19,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0072,CREATURE-001,Conus geographus,Cone Snail,33.9362335,-82.434972,Australia,2022-07-05,0,Tropical Waters,High,Observation,Medium
+OCC-001-0073,CREATURE-001,Conus geographus,Cone Snail,-2.1269375,-66.365749,Korea,2022-11-04,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0074,CREATURE-001,Conus geographus,Cone Snail,11.770918,-30.612117,Sao Tome and Principe,2025-12-18,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0075,CREATURE-001,Conus geographus,Cone Snail,23.162947,-44.562755,Syrian Arab Republic,2021-08-13,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0076,CREATURE-001,Conus geographus,Cone Snail,-84.796840,109.598399,Austria,2026-03-17,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0077,CREATURE-001,Conus geographus,Cone Snail,3.941764,-59.621644,Pakistan,2021-07-20,0,Tropical Waters,High,Observation,High
+OCC-001-0078,CREATURE-001,Conus geographus,Cone Snail,84.954058,-158.386578,Saudi Arabia,2021-05-12,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0079,CREATURE-001,Conus geographus,Cone Snail,-23.620394,-72.969050,Taiwan,2021-04-23,0,Tropical Waters,High,Preserved Specimen,Medium
+OCC-001-0080,CREATURE-001,Conus geographus,Cone Snail,-49.0951755,-51.932160,Brunei Darussalam,2023-07-30,0,Tropical Waters,High,Observation,High
+OCC-001-0081,CREATURE-001,Conus geographus,Cone Snail,-59.293817,122.778860,Yemen,2022-04-19,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0082,CREATURE-001,Conus geographus,Cone Snail,-21.2151065,18.049088,Chad,2024-03-27,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0083,CREATURE-001,Conus geographus,Cone Snail,-59.2553175,-92.078903,Georgia,2021-09-30,0,Tropical Waters,High,Literature,High
+OCC-001-0084,CREATURE-001,Conus geographus,Cone Snail,-83.107002,-12.519229,Morocco,2024-08-05,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0085,CREATURE-001,Conus geographus,Cone Snail,10.7456945,32.952228,Western Sahara,2024-10-13,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0086,CREATURE-001,Conus geographus,Cone Snail,-69.599852,137.880118,Portugal,2025-05-12,0,Tropical Waters,High,Literature,High
+OCC-001-0087,CREATURE-001,Conus geographus,Cone Snail,-24.810615,-125.292155,Qatar,2025-01-26,0,Tropical Waters,High,Literature,Medium
+OCC-001-0088,CREATURE-001,Conus geographus,Cone Snail,71.171765,-115.009059,South Africa,2026-02-16,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0089,CREATURE-001,Conus geographus,Cone Snail,-78.9755885,6.403601,Martinique,2023-05-08,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0090,CREATURE-001,Conus geographus,Cone Snail,9.4743635,-142.979135,Madagascar,2024-06-12,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0091,CREATURE-001,Conus geographus,Cone Snail,-86.6037155,45.517319,Swaziland,2023-08-29,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0092,CREATURE-001,Conus geographus,Cone Snail,26.373051,14.448221,North Macedonia,2025-08-31,0,Tropical Waters,High,Observation,High
+OCC-001-0093,CREATURE-001,Conus geographus,Cone Snail,33.410341,-97.863503,Jordan,2022-02-01,0,Tropical Waters,High,Observation,High
+OCC-001-0094,CREATURE-001,Conus geographus,Cone Snail,50.055325,169.211667,Faroe Islands,2024-04-15,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0095,CREATURE-001,Conus geographus,Cone Snail,54.4646895,79.575747,Lao People's Democratic Republic,2023-05-21,0,Tropical Waters,High,Observation,Medium
+OCC-001-0096,CREATURE-001,Conus geographus,Cone Snail,69.0411945,-35.906242,Gibraltar,2025-06-20,0,Tropical Waters,High,Observation,Medium
+OCC-001-0097,CREATURE-001,Conus geographus,Cone Snail,-66.736606,-30.251539,Turkmenistan,2023-06-18,0,Tropical Waters,High,Preserved Specimen,High
+OCC-001-0098,CREATURE-001,Conus geographus,Cone Snail,34.744229,125.935698,New Zealand,2024-07-19,0,Tropical Waters,High,Observation,Medium
+OCC-001-0099,CREATURE-001,Conus geographus,Cone Snail,0.300781,-164.591808,Lithuania,2025-06-18,0,Tropical Waters,High,Literature,High
+OCC-002-0000,CREATURE-002,Bothrops jararaca,Pit Viper,-41.187736,81.751379,Croatia,2022-12-25,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0001,CREATURE-002,Bothrops jararaca,Pit Viper,-20.6490525,2.718024,Fiji,2025-08-11,0,Tropical Forest,Extreme,Observation,Medium
+OCC-002-0002,CREATURE-002,Bothrops jararaca,Pit Viper,-15.839719,118.388036,Algeria,2023-10-16,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0003,CREATURE-002,Bothrops jararaca,Pit Viper,-38.713681,-134.036892,Dominican Republic,2024-10-22,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0004,CREATURE-002,Bothrops jararaca,Pit Viper,41.1516175,118.057956,Senegal,2022-05-30,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0005,CREATURE-002,Bothrops jararaca,Pit Viper,37.8002705,166.766476,Rwanda,2023-08-30,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0006,CREATURE-002,Bothrops jararaca,Pit Viper,-85.371297,-130.042363,French Polynesia,2022-04-25,0,Tropical Forest,Extreme,Literature,High
+OCC-002-0007,CREATURE-002,Bothrops jararaca,Pit Viper,-24.688268,-15.606889,Panama,2024-02-12,0,Tropical Forest,Extreme,Preserved Specimen,Low
+OCC-002-0008,CREATURE-002,Bothrops jararaca,Pit Viper,37.039895,117.143528,Marshall Islands,2022-12-05,0,Tropical Forest,Extreme,Literature,High
+OCC-002-0009,CREATURE-002,Bothrops jararaca,Pit Viper,57.7437805,-2.407773,Guinea,2024-09-21,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0010,CREATURE-002,Bothrops jararaca,Pit Viper,-17.276426,-15.383036,El Salvador,2022-05-12,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0011,CREATURE-002,Bothrops jararaca,Pit Viper,-38.303548,-10.591488,British Indian Ocean Territory (Chagos Archipelago),2024-12-03,0,Tropical Forest,Extreme,Observation,Medium
+OCC-002-0012,CREATURE-002,Bothrops jararaca,Pit Viper,-40.2992165,-77.167223,Cuba,2024-11-25,0,Tropical Forest,Extreme,Observation,Medium
+OCC-002-0013,CREATURE-002,Bothrops jararaca,Pit Viper,-15.7776965,136.532058,Senegal,2023-10-31,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0014,CREATURE-002,Bothrops jararaca,Pit Viper,-14.0331155,-126.030457,Syrian Arab Republic,2022-03-06,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0015,CREATURE-002,Bothrops jararaca,Pit Viper,-28.9354525,13.746548,Christmas Island,2022-09-20,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0016,CREATURE-002,Bothrops jararaca,Pit Viper,53.380797,-112.041291,Falkland Islands (Malvinas),2021-06-08,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0017,CREATURE-002,Bothrops jararaca,Pit Viper,-75.363284,117.082332,French Guiana,2024-09-11,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0018,CREATURE-002,Bothrops jararaca,Pit Viper,-56.102108,162.453662,Trinidad and Tobago,2024-12-21,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0019,CREATURE-002,Bothrops jararaca,Pit Viper,-62.4618395,-173.415064,Montserrat,2022-08-18,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0020,CREATURE-002,Bothrops jararaca,Pit Viper,38.5038665,56.474887,Guam,2022-02-16,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0021,CREATURE-002,Bothrops jararaca,Pit Viper,-76.2086665,-44.451700,Wallis and Futuna,2025-07-08,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0022,CREATURE-002,Bothrops jararaca,Pit Viper,-59.3749675,-144.919012,Iran,2023-09-01,0,Tropical Forest,Extreme,Preserved Specimen,Low
+OCC-002-0023,CREATURE-002,Bothrops jararaca,Pit Viper,64.892936,157.931089,Poland,2021-06-22,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0024,CREATURE-002,Bothrops jararaca,Pit Viper,-49.9500795,122.172204,Yemen,2022-09-23,0,Tropical Forest,Extreme,Observation,Medium
+OCC-002-0025,CREATURE-002,Bothrops jararaca,Pit Viper,-23.376748,-116.406802,Moldova,2025-01-11,0,Tropical Forest,Extreme,Literature,Medium
+OCC-002-0026,CREATURE-002,Bothrops jararaca,Pit Viper,72.7571545,140.043163,Somalia,2024-04-19,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0027,CREATURE-002,Bothrops jararaca,Pit Viper,50.2769965,24.213899,Korea,2025-10-01,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0028,CREATURE-002,Bothrops jararaca,Pit Viper,-10.1798775,135.962025,Japan,2022-09-25,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0029,CREATURE-002,Bothrops jararaca,Pit Viper,76.7057525,-147.664102,New Zealand,2026-01-04,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0030,CREATURE-002,Bothrops jararaca,Pit Viper,-63.362192,-68.444719,Niue,2022-04-06,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0031,CREATURE-002,Bothrops jararaca,Pit Viper,87.282329,-136.412810,Cayman Islands,2022-05-29,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0032,CREATURE-002,Bothrops jararaca,Pit Viper,58.174290,-139.699853,Cayman Islands,2021-03-21,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0033,CREATURE-002,Bothrops jararaca,Pit Viper,30.9311665,138.799956,Latvia,2022-08-31,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0034,CREATURE-002,Bothrops jararaca,Pit Viper,-27.863572,-25.324868,Romania,2022-08-15,0,Tropical Forest,Extreme,Literature,High
+OCC-002-0035,CREATURE-002,Bothrops jararaca,Pit Viper,31.878106,-141.785658,Poland,2022-05-17,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0036,CREATURE-002,Bothrops jararaca,Pit Viper,-18.984159,155.575461,Namibia,2024-07-06,0,Tropical Forest,Extreme,Preserved Specimen,Low
+OCC-002-0037,CREATURE-002,Bothrops jararaca,Pit Viper,-36.898309,48.244747,Brazil,2023-12-06,0,Tropical Forest,Extreme,Preserved Specimen,Low
+OCC-002-0038,CREATURE-002,Bothrops jararaca,Pit Viper,83.848122,-100.011928,United States of America,2022-07-15,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0039,CREATURE-002,Bothrops jararaca,Pit Viper,-51.8187375,-141.662135,Bahamas,2022-01-14,0,Tropical Forest,Extreme,Preserved Specimen,Low
+OCC-002-0040,CREATURE-002,Bothrops jararaca,Pit Viper,-7.426084,139.461833,San Marino,2025-04-30,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0041,CREATURE-002,Bothrops jararaca,Pit Viper,-12.5266845,55.768714,British Virgin Islands,2023-07-21,0,Tropical Forest,Extreme,Literature,High
+OCC-002-0042,CREATURE-002,Bothrops jararaca,Pit Viper,-8.371144,36.095115,Western Sahara,2022-07-27,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0043,CREATURE-002,Bothrops jararaca,Pit Viper,54.9501975,85.104289,Kazakhstan,2021-08-10,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0044,CREATURE-002,Bothrops jararaca,Pit Viper,-79.2999525,51.943623,Saint Pierre and Miquelon,2022-10-26,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0045,CREATURE-002,Bothrops jararaca,Pit Viper,-22.7923775,-166.113890,Bermuda,2022-05-09,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0046,CREATURE-002,Bothrops jararaca,Pit Viper,64.4038345,135.209223,Zambia,2021-04-23,0,Tropical Forest,Extreme,Literature,Medium
+OCC-002-0047,CREATURE-002,Bothrops jararaca,Pit Viper,-17.6536855,129.370245,Armenia,2025-01-09,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0048,CREATURE-002,Bothrops jararaca,Pit Viper,-42.9725965,72.598205,Maldives,2024-06-19,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0049,CREATURE-002,Bothrops jararaca,Pit Viper,-15.3329125,-82.563759,Myanmar,2023-05-22,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0050,CREATURE-002,Bothrops jararaca,Pit Viper,41.9966395,-131.014607,Latvia,2022-12-12,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0051,CREATURE-002,Bothrops jararaca,Pit Viper,-0.5282085,-7.633161,Paraguay,2021-09-24,0,Tropical Forest,Extreme,Literature,Low
+OCC-002-0052,CREATURE-002,Bothrops jararaca,Pit Viper,-46.828907,-2.938005,Isle of Man,2024-09-04,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0053,CREATURE-002,Bothrops jararaca,Pit Viper,-12.6321245,175.721827,Western Sahara,2023-03-18,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0054,CREATURE-002,Bothrops jararaca,Pit Viper,57.665435,-160.298377,Korea,2021-08-24,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0055,CREATURE-002,Bothrops jararaca,Pit Viper,-22.247200,-6.443708,Brazil,2026-01-22,0,Tropical Forest,Extreme,Literature,Medium
+OCC-002-0056,CREATURE-002,Bothrops jararaca,Pit Viper,18.4949155,96.271759,Sweden,2026-02-24,0,Tropical Forest,Extreme,Literature,Medium
+OCC-002-0057,CREATURE-002,Bothrops jararaca,Pit Viper,86.5393645,111.302717,Kyrgyz Republic,2023-04-11,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0058,CREATURE-002,Bothrops jararaca,Pit Viper,-39.646195,98.335031,Guyana,2024-04-27,0,Tropical Forest,Extreme,Literature,Medium
+OCC-002-0059,CREATURE-002,Bothrops jararaca,Pit Viper,43.813222,155.763762,Kenya,2025-01-03,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0060,CREATURE-002,Bothrops jararaca,Pit Viper,-35.357751,-36.625273,Mexico,2021-11-11,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0061,CREATURE-002,Bothrops jararaca,Pit Viper,-12.6827645,55.211784,Turkmenistan,2024-09-12,0,Tropical Forest,Extreme,Literature,High
+OCC-002-0062,CREATURE-002,Bothrops jararaca,Pit Viper,-57.404933,-164.500838,Norfolk Island,2024-04-02,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0063,CREATURE-002,Bothrops jararaca,Pit Viper,-25.7640765,-94.971370,Georgia,2023-12-18,0,Tropical Forest,Extreme,Literature,Medium
+OCC-002-0064,CREATURE-002,Bothrops jararaca,Pit Viper,58.243859,39.038335,Bermuda,2022-05-01,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0065,CREATURE-002,Bothrops jararaca,Pit Viper,-59.5430125,67.737949,Yemen,2021-10-17,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0066,CREATURE-002,Bothrops jararaca,Pit Viper,-48.6686915,87.563311,Venezuela,2024-10-16,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0067,CREATURE-002,Bothrops jararaca,Pit Viper,46.599291,-33.206128,Israel,2025-05-20,0,Tropical Forest,Extreme,Observation,Low
+OCC-002-0068,CREATURE-002,Bothrops jararaca,Pit Viper,36.7605325,-49.147968,Korea,2023-12-19,0,Tropical Forest,Extreme,Literature,High
+OCC-002-0069,CREATURE-002,Bothrops jararaca,Pit Viper,12.9680875,-77.666838,Uruguay,2024-03-16,0,Tropical Forest,Extreme,Observation,Medium
+OCC-002-0070,CREATURE-002,Bothrops jararaca,Pit Viper,-53.356321,-142.520998,Falkland Islands (Malvinas),2025-01-26,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0071,CREATURE-002,Bothrops jararaca,Pit Viper,21.385258,2.469129,Vietnam,2025-02-23,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0072,CREATURE-002,Bothrops jararaca,Pit Viper,-18.2813855,-178.622787,Finland,2024-11-02,0,Tropical Forest,Extreme,Literature,High
+OCC-002-0073,CREATURE-002,Bothrops jararaca,Pit Viper,67.5548945,131.343993,Palestinian Territory,2023-08-28,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0074,CREATURE-002,Bothrops jararaca,Pit Viper,-50.111722,59.738307,Mauritania,2023-08-18,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0075,CREATURE-002,Bothrops jararaca,Pit Viper,-0.7613295,116.308407,Serbia,2023-12-04,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0076,CREATURE-002,Bothrops jararaca,Pit Viper,32.230639,-7.247101,Trinidad and Tobago,2022-02-24,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0077,CREATURE-002,Bothrops jararaca,Pit Viper,-25.896125,126.981523,Hungary,2022-05-17,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0078,CREATURE-002,Bothrops jararaca,Pit Viper,20.266601,-156.567035,Ghana,2024-12-06,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0079,CREATURE-002,Bothrops jararaca,Pit Viper,12.335957,27.274450,Panama,2025-03-03,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0080,CREATURE-002,Bothrops jararaca,Pit Viper,85.0250175,-98.339079,Lithuania,2026-01-12,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0081,CREATURE-002,Bothrops jararaca,Pit Viper,-56.1110255,89.665507,Nauru,2022-11-13,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0082,CREATURE-002,Bothrops jararaca,Pit Viper,-63.058584,56.387597,Bolivia,2023-11-02,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0083,CREATURE-002,Bothrops jararaca,Pit Viper,32.655697,-171.760321,Saint Helena,2021-12-05,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0084,CREATURE-002,Bothrops jararaca,Pit Viper,85.7665225,-97.127951,Belarus,2023-07-22,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0085,CREATURE-002,Bothrops jararaca,Pit Viper,-18.858489,1.763678,Nigeria,2024-09-02,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0086,CREATURE-002,Bothrops jararaca,Pit Viper,84.439199,-136.881042,Timor-Leste,2022-11-07,0,Tropical Forest,Extreme,Literature,High
+OCC-002-0087,CREATURE-002,Bothrops jararaca,Pit Viper,53.243149,24.015990,Zimbabwe,2022-10-16,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0088,CREATURE-002,Bothrops jararaca,Pit Viper,40.982404,110.455761,Argentina,2024-04-18,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0089,CREATURE-002,Bothrops jararaca,Pit Viper,-26.9793425,158.851990,Poland,2025-10-24,0,Tropical Forest,Extreme,Observation,Medium
+OCC-002-0090,CREATURE-002,Bothrops jararaca,Pit Viper,-28.934617,-131.477965,Jordan,2026-02-06,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0091,CREATURE-002,Bothrops jararaca,Pit Viper,80.1203865,-126.040587,Kenya,2022-01-14,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0092,CREATURE-002,Bothrops jararaca,Pit Viper,-9.612688,-164.459061,Aruba,2022-10-30,0,Tropical Forest,Extreme,Preserved Specimen,Low
+OCC-002-0093,CREATURE-002,Bothrops jararaca,Pit Viper,-74.935610,-22.499373,Guinea-Bissau,2023-01-30,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0094,CREATURE-002,Bothrops jararaca,Pit Viper,-50.923906,-48.897501,Marshall Islands,2023-04-08,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0095,CREATURE-002,Bothrops jararaca,Pit Viper,-41.666347,-88.740724,China,2021-08-08,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0096,CREATURE-002,Bothrops jararaca,Pit Viper,12.6884535,152.704469,Pitcairn Islands,2022-05-30,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0097,CREATURE-002,Bothrops jararaca,Pit Viper,66.540051,-103.164258,Djibouti,2023-07-07,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0098,CREATURE-002,Bothrops jararaca,Pit Viper,-21.823477,66.730032,Equatorial Guinea,2024-07-17,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0099,CREATURE-002,Bothrops jararaca,Pit Viper,34.890469,-25.578927,Philippines,2023-12-10,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0100,CREATURE-002,Bothrops jararaca,Pit Viper,-70.172847,57.151870,Western Sahara,2022-12-08,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0101,CREATURE-002,Bothrops jararaca,Pit Viper,67.725078,-19.392787,Northern Mariana Islands,2026-01-07,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0102,CREATURE-002,Bothrops jararaca,Pit Viper,-22.864769,65.261856,Tanzania,2022-09-19,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0103,CREATURE-002,Bothrops jararaca,Pit Viper,13.265306,79.420352,Botswana,2022-05-24,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0104,CREATURE-002,Bothrops jararaca,Pit Viper,63.5243295,12.714730,Morocco,2022-09-08,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0105,CREATURE-002,Bothrops jararaca,Pit Viper,-10.749597,-168.221269,Switzerland,2024-07-01,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0106,CREATURE-002,Bothrops jararaca,Pit Viper,-16.319733,-175.652438,Mongolia,2025-07-14,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0107,CREATURE-002,Bothrops jararaca,Pit Viper,-76.834786,145.562007,Samoa,2023-09-10,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0108,CREATURE-002,Bothrops jararaca,Pit Viper,-13.1753425,-56.456129,New Caledonia,2025-03-21,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0109,CREATURE-002,Bothrops jararaca,Pit Viper,-31.211418,161.781620,Comoros,2024-04-24,0,Tropical Forest,Extreme,Observation,Medium
+OCC-002-0110,CREATURE-002,Bothrops jararaca,Pit Viper,86.947696,-106.567208,Niue,2021-09-10,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0111,CREATURE-002,Bothrops jararaca,Pit Viper,78.4320035,167.001474,Armenia,2022-10-02,0,Tropical Forest,Extreme,Observation,Medium
+OCC-002-0112,CREATURE-002,Bothrops jararaca,Pit Viper,28.3325755,-162.087555,Mozambique,2023-01-12,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0113,CREATURE-002,Bothrops jararaca,Pit Viper,-54.7244115,-131.610014,United States of America,2022-09-07,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0114,CREATURE-002,Bothrops jararaca,Pit Viper,21.535762,-85.703954,Cook Islands,2021-11-13,0,Tropical Forest,Extreme,Observation,High
+OCC-002-0115,CREATURE-002,Bothrops jararaca,Pit Viper,54.7961665,16.418266,Marshall Islands,2023-09-19,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-002-0116,CREATURE-002,Bothrops jararaca,Pit Viper,-16.8439965,-91.660885,Equatorial Guinea,2025-10-11,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0117,CREATURE-002,Bothrops jararaca,Pit Viper,39.3450415,-21.547142,San Marino,2025-07-24,0,Tropical Forest,Extreme,Observation,Medium
+OCC-002-0118,CREATURE-002,Bothrops jararaca,Pit Viper,-59.084367,71.433496,Belarus,2021-11-29,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0119,CREATURE-002,Bothrops jararaca,Pit Viper,-29.437018,33.358670,Tanzania,2025-03-25,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0120,CREATURE-002,Bothrops jararaca,Pit Viper,8.1869935,-131.519015,Somalia,2023-03-07,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0121,CREATURE-002,Bothrops jararaca,Pit Viper,-19.009941,108.070067,British Virgin Islands,2023-06-25,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0122,CREATURE-002,Bothrops jararaca,Pit Viper,-19.6265825,133.833311,Hong Kong,2025-04-27,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0123,CREATURE-002,Bothrops jararaca,Pit Viper,9.716696,-121.832130,Peru,2022-05-18,0,Tropical Forest,Extreme,Preserved Specimen,High
+OCC-002-0124,CREATURE-002,Bothrops jararaca,Pit Viper,-83.2824975,152.616688,Turks and Caicos Islands,2025-12-04,0,Tropical Forest,Extreme,Preserved Specimen,Medium
+OCC-003-0000,CREATURE-003,Phyllobates terribilis,Poison Frog,-1.9514855,147.535387,Cyprus,2024-06-12,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0001,CREATURE-003,Phyllobates terribilis,Poison Frog,80.5649415,69.251732,United States of America,2024-09-17,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0002,CREATURE-003,Phyllobates terribilis,Poison Frog,84.2788875,39.202171,Brazil,2021-11-27,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0003,CREATURE-003,Phyllobates terribilis,Poison Frog,-80.0109455,-16.595512,Lithuania,2021-10-15,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0004,CREATURE-003,Phyllobates terribilis,Poison Frog,-26.9713475,108.593136,Burkina Faso,2023-02-25,0,Rainforest,Extreme,Observation,High
+OCC-003-0005,CREATURE-003,Phyllobates terribilis,Poison Frog,9.5926455,179.964544,Zambia,2024-12-03,0,Rainforest,Extreme,Preserved Specimen,Low
+OCC-003-0006,CREATURE-003,Phyllobates terribilis,Poison Frog,55.0068185,45.016962,Namibia,2024-12-02,0,Rainforest,Extreme,Observation,High
+OCC-003-0007,CREATURE-003,Phyllobates terribilis,Poison Frog,-48.5205755,42.739435,Palau,2021-09-13,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0008,CREATURE-003,Phyllobates terribilis,Poison Frog,41.3580945,150.525766,Ireland,2025-11-26,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0009,CREATURE-003,Phyllobates terribilis,Poison Frog,-14.9078265,-162.435578,Portugal,2023-01-22,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0010,CREATURE-003,Phyllobates terribilis,Poison Frog,29.0197405,58.744268,Zambia,2022-05-22,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0011,CREATURE-003,Phyllobates terribilis,Poison Frog,7.3577935,-126.659393,Poland,2023-01-17,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0012,CREATURE-003,Phyllobates terribilis,Poison Frog,83.094378,12.561555,Bahamas,2023-03-14,0,Rainforest,Extreme,Preserved Specimen,Low
+OCC-003-0013,CREATURE-003,Phyllobates terribilis,Poison Frog,-39.0486535,-114.416001,Yemen,2025-06-13,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0014,CREATURE-003,Phyllobates terribilis,Poison Frog,32.0622655,-130.783207,Panama,2022-04-08,0,Rainforest,Extreme,Literature,Medium
+OCC-003-0015,CREATURE-003,Phyllobates terribilis,Poison Frog,81.6625725,140.590295,Angola,2021-06-17,0,Rainforest,Extreme,Observation,High
+OCC-003-0016,CREATURE-003,Phyllobates terribilis,Poison Frog,-0.474318,-49.234948,Brunei Darussalam,2025-02-21,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0017,CREATURE-003,Phyllobates terribilis,Poison Frog,-34.915548,-143.165206,Switzerland,2025-01-12,0,Rainforest,Extreme,Literature,High
+OCC-003-0018,CREATURE-003,Phyllobates terribilis,Poison Frog,-34.391617,134.812023,Cuba,2025-04-10,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0019,CREATURE-003,Phyllobates terribilis,Poison Frog,-27.4548935,-3.605936,Singapore,2021-12-11,0,Rainforest,Extreme,Observation,High
+OCC-003-0020,CREATURE-003,Phyllobates terribilis,Poison Frog,69.9826025,-178.477676,Falkland Islands (Malvinas),2025-07-02,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0021,CREATURE-003,Phyllobates terribilis,Poison Frog,-51.1606165,-110.211006,Mauritius,2022-06-17,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0022,CREATURE-003,Phyllobates terribilis,Poison Frog,-43.158786,-120.983743,Panama,2025-07-17,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0023,CREATURE-003,Phyllobates terribilis,Poison Frog,-54.619340,-172.021924,Guinea-Bissau,2025-02-27,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0024,CREATURE-003,Phyllobates terribilis,Poison Frog,-26.130722,136.138005,Gibraltar,2021-04-14,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0025,CREATURE-003,Phyllobates terribilis,Poison Frog,-18.765951,-151.868490,Brunei Darussalam,2024-12-01,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0026,CREATURE-003,Phyllobates terribilis,Poison Frog,51.2200085,-118.984995,Samoa,2021-07-11,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0027,CREATURE-003,Phyllobates terribilis,Poison Frog,30.332961,14.368194,Malaysia,2024-03-05,0,Rainforest,Extreme,Preserved Specimen,Low
+OCC-003-0028,CREATURE-003,Phyllobates terribilis,Poison Frog,31.3342815,90.496338,Cyprus,2025-12-08,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0029,CREATURE-003,Phyllobates terribilis,Poison Frog,-78.3592875,173.745894,Mali,2022-09-19,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0030,CREATURE-003,Phyllobates terribilis,Poison Frog,82.695449,-163.276128,Bahamas,2026-03-15,0,Rainforest,Extreme,Observation,High
+OCC-003-0031,CREATURE-003,Phyllobates terribilis,Poison Frog,17.808311,48.853906,Poland,2021-09-30,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0032,CREATURE-003,Phyllobates terribilis,Poison Frog,29.067856,-140.544975,United Arab Emirates,2021-08-11,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0033,CREATURE-003,Phyllobates terribilis,Poison Frog,73.288597,-100.363881,Bahrain,2021-11-02,0,Rainforest,Extreme,Observation,Low
+OCC-003-0034,CREATURE-003,Phyllobates terribilis,Poison Frog,77.5889515,159.880479,Myanmar,2023-12-13,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0035,CREATURE-003,Phyllobates terribilis,Poison Frog,-2.708697,24.496488,Nepal,2023-11-11,0,Rainforest,Extreme,Literature,High
+OCC-003-0036,CREATURE-003,Phyllobates terribilis,Poison Frog,31.793305,91.415667,Netherlands,2023-05-11,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0037,CREATURE-003,Phyllobates terribilis,Poison Frog,-59.287208,171.496342,Pakistan,2025-08-06,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0038,CREATURE-003,Phyllobates terribilis,Poison Frog,57.9979235,-64.560372,Jersey,2023-06-19,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0039,CREATURE-003,Phyllobates terribilis,Poison Frog,-28.664223,42.164470,Guadeloupe,2025-05-06,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0040,CREATURE-003,Phyllobates terribilis,Poison Frog,17.0333185,43.332742,Saint Lucia,2021-09-06,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0041,CREATURE-003,Phyllobates terribilis,Poison Frog,24.558591,-12.215185,Papua New Guinea,2022-06-25,0,Rainforest,Extreme,Observation,High
+OCC-003-0042,CREATURE-003,Phyllobates terribilis,Poison Frog,-49.0263015,74.620634,Bangladesh,2021-08-30,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0043,CREATURE-003,Phyllobates terribilis,Poison Frog,-67.0851785,-129.947472,Jersey,2021-09-09,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0044,CREATURE-003,Phyllobates terribilis,Poison Frog,10.0316285,-110.144798,Moldova,2021-07-04,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0045,CREATURE-003,Phyllobates terribilis,Poison Frog,60.749705,121.551469,Greenland,2024-07-23,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0046,CREATURE-003,Phyllobates terribilis,Poison Frog,20.2756035,9.836522,Tunisia,2024-07-14,0,Rainforest,Extreme,Observation,High
+OCC-003-0047,CREATURE-003,Phyllobates terribilis,Poison Frog,23.531247,-152.380099,France,2024-03-17,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0048,CREATURE-003,Phyllobates terribilis,Poison Frog,4.394305,-124.379871,Morocco,2023-09-30,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0049,CREATURE-003,Phyllobates terribilis,Poison Frog,-48.4649355,172.582616,Liberia,2022-04-30,0,Rainforest,Extreme,Literature,High
+OCC-003-0050,CREATURE-003,Phyllobates terribilis,Poison Frog,-60.950349,7.966017,Tanzania,2023-12-28,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0051,CREATURE-003,Phyllobates terribilis,Poison Frog,-59.1607085,-30.444829,Montserrat,2022-05-04,0,Rainforest,Extreme,Observation,High
+OCC-003-0052,CREATURE-003,Phyllobates terribilis,Poison Frog,25.1889845,121.166165,Seychelles,2025-04-20,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0053,CREATURE-003,Phyllobates terribilis,Poison Frog,74.704822,165.046485,Moldova,2021-05-03,0,Rainforest,Extreme,Observation,High
+OCC-003-0054,CREATURE-003,Phyllobates terribilis,Poison Frog,86.585225,-36.415096,Antarctica (the territory South of 60 deg S),2022-02-09,0,Rainforest,Extreme,Observation,Medium
+OCC-003-0055,CREATURE-003,Phyllobates terribilis,Poison Frog,-7.057556,2.441975,Guernsey,2021-03-28,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0056,CREATURE-003,Phyllobates terribilis,Poison Frog,-51.546221,124.041322,Palestinian Territory,2023-03-19,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0057,CREATURE-003,Phyllobates terribilis,Poison Frog,-51.915814,159.931632,Antarctica (the territory South of 60 deg S),2021-08-31,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0058,CREATURE-003,Phyllobates terribilis,Poison Frog,52.400362,-64.501414,Honduras,2023-04-23,0,Rainforest,Extreme,Observation,Medium
+OCC-003-0059,CREATURE-003,Phyllobates terribilis,Poison Frog,1.508569,-95.491540,Heard Island and McDonald Islands,2022-10-07,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0060,CREATURE-003,Phyllobates terribilis,Poison Frog,-2.924132,124.724469,Nepal,2021-08-19,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0061,CREATURE-003,Phyllobates terribilis,Poison Frog,-75.877926,-96.473674,Cayman Islands,2024-12-24,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0062,CREATURE-003,Phyllobates terribilis,Poison Frog,-76.641984,-136.201252,Faroe Islands,2023-06-04,0,Rainforest,Extreme,Observation,High
+OCC-003-0063,CREATURE-003,Phyllobates terribilis,Poison Frog,23.8205985,80.737643,New Caledonia,2023-06-02,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0064,CREATURE-003,Phyllobates terribilis,Poison Frog,-16.6723335,-64.267293,Saudi Arabia,2023-10-09,0,Rainforest,Extreme,Observation,High
+OCC-003-0065,CREATURE-003,Phyllobates terribilis,Poison Frog,2.656632,50.808125,Bouvet Island (Bouvetoya),2022-08-16,0,Rainforest,Extreme,Observation,High
+OCC-003-0066,CREATURE-003,Phyllobates terribilis,Poison Frog,69.218262,81.258969,Malta,2024-07-17,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0067,CREATURE-003,Phyllobates terribilis,Poison Frog,-77.8083695,-61.610065,Indonesia,2026-02-17,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0068,CREATURE-003,Phyllobates terribilis,Poison Frog,-75.2945795,-175.873027,Costa Rica,2022-09-18,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0069,CREATURE-003,Phyllobates terribilis,Poison Frog,-33.297311,-106.322628,Serbia,2022-06-26,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0070,CREATURE-003,Phyllobates terribilis,Poison Frog,-1.920326,-115.583894,Albania,2023-09-11,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0071,CREATURE-003,Phyllobates terribilis,Poison Frog,25.6030755,-85.674570,Bulgaria,2023-02-09,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0072,CREATURE-003,Phyllobates terribilis,Poison Frog,-28.230126,88.576301,Monaco,2025-05-17,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0073,CREATURE-003,Phyllobates terribilis,Poison Frog,5.0710265,-141.304764,Indonesia,2025-07-08,0,Rainforest,Extreme,Literature,High
+OCC-003-0074,CREATURE-003,Phyllobates terribilis,Poison Frog,-78.644573,54.193614,Andorra,2023-07-04,0,Rainforest,Extreme,Observation,Medium
+OCC-003-0075,CREATURE-003,Phyllobates terribilis,Poison Frog,-69.098916,-11.926856,Morocco,2023-05-10,0,Rainforest,Extreme,Observation,High
+OCC-003-0076,CREATURE-003,Phyllobates terribilis,Poison Frog,18.5614405,163.673441,Israel,2022-08-27,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0077,CREATURE-003,Phyllobates terribilis,Poison Frog,18.725032,-168.802723,Greece,2022-01-25,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0078,CREATURE-003,Phyllobates terribilis,Poison Frog,75.9267365,67.012641,Switzerland,2024-08-27,0,Rainforest,Extreme,Literature,Medium
+OCC-003-0079,CREATURE-003,Phyllobates terribilis,Poison Frog,7.1340925,-132.685630,Jordan,2025-06-06,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0080,CREATURE-003,Phyllobates terribilis,Poison Frog,-24.6852315,53.902053,Namibia,2023-03-18,0,Rainforest,Extreme,Literature,Medium
+OCC-003-0081,CREATURE-003,Phyllobates terribilis,Poison Frog,-68.8883325,32.475625,Trinidad and Tobago,2022-10-04,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0082,CREATURE-003,Phyllobates terribilis,Poison Frog,1.137403,-61.044407,Grenada,2025-02-07,0,Rainforest,Extreme,Observation,High
+OCC-003-0083,CREATURE-003,Phyllobates terribilis,Poison Frog,-69.4970675,94.063627,North Macedonia,2021-10-11,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0084,CREATURE-003,Phyllobates terribilis,Poison Frog,46.889214,-75.898743,United Kingdom,2025-02-02,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0085,CREATURE-003,Phyllobates terribilis,Poison Frog,4.2476165,166.519556,Suriname,2021-12-11,0,Rainforest,Extreme,Observation,High
+OCC-003-0086,CREATURE-003,Phyllobates terribilis,Poison Frog,-62.4036195,-101.378358,Equatorial Guinea,2022-03-12,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0087,CREATURE-003,Phyllobates terribilis,Poison Frog,71.7052465,-97.928659,Senegal,2025-01-01,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0088,CREATURE-003,Phyllobates terribilis,Poison Frog,-69.7725095,-84.895400,Zambia,2025-01-26,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0089,CREATURE-003,Phyllobates terribilis,Poison Frog,42.6385295,69.082907,Saudi Arabia,2024-01-10,0,Rainforest,Extreme,Observation,High
+OCC-003-0090,CREATURE-003,Phyllobates terribilis,Poison Frog,65.5497805,61.004174,Pitcairn Islands,2025-10-30,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0091,CREATURE-003,Phyllobates terribilis,Poison Frog,61.5296095,165.203611,North Macedonia,2026-02-21,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0092,CREATURE-003,Phyllobates terribilis,Poison Frog,-3.239450,156.734780,Germany,2021-12-17,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0093,CREATURE-003,Phyllobates terribilis,Poison Frog,-71.6695465,71.750090,Kenya,2024-05-13,0,Rainforest,Extreme,Literature,High
+OCC-003-0094,CREATURE-003,Phyllobates terribilis,Poison Frog,-16.267850,137.516064,Azerbaijan,2022-12-19,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0095,CREATURE-003,Phyllobates terribilis,Poison Frog,-70.0845965,-13.351055,Kyrgyz Republic,2023-06-20,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0096,CREATURE-003,Phyllobates terribilis,Poison Frog,-74.728693,17.964490,Switzerland,2022-08-23,0,Rainforest,Extreme,Preserved Specimen,Low
+OCC-003-0097,CREATURE-003,Phyllobates terribilis,Poison Frog,83.051337,-131.522433,Nicaragua,2024-03-06,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0098,CREATURE-003,Phyllobates terribilis,Poison Frog,13.2087295,68.416429,Mozambique,2023-12-24,0,Rainforest,Extreme,Preserved Specimen,Low
+OCC-003-0099,CREATURE-003,Phyllobates terribilis,Poison Frog,-78.9880495,61.448941,United States of America,2025-04-04,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0100,CREATURE-003,Phyllobates terribilis,Poison Frog,84.9762855,-78.939706,Gibraltar,2024-03-26,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0101,CREATURE-003,Phyllobates terribilis,Poison Frog,44.584761,-99.007079,Bahamas,2023-06-18,0,Rainforest,Extreme,Preserved Specimen,Medium
+OCC-003-0102,CREATURE-003,Phyllobates terribilis,Poison Frog,2.190875,-134.726144,Madagascar,2024-06-09,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0103,CREATURE-003,Phyllobates terribilis,Poison Frog,-79.492865,-46.993602,Russian Federation,2023-05-25,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0104,CREATURE-003,Phyllobates terribilis,Poison Frog,27.956389,101.357163,Mali,2024-04-04,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0105,CREATURE-003,Phyllobates terribilis,Poison Frog,7.683114,20.173383,United States Virgin Islands,2022-08-15,0,Rainforest,Extreme,Observation,High
+OCC-003-0106,CREATURE-003,Phyllobates terribilis,Poison Frog,19.7281985,1.659478,Philippines,2024-03-13,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0107,CREATURE-003,Phyllobates terribilis,Poison Frog,79.3523255,167.519416,Grenada,2021-07-15,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0108,CREATURE-003,Phyllobates terribilis,Poison Frog,-64.631254,119.554219,Philippines,2023-02-21,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0109,CREATURE-003,Phyllobates terribilis,Poison Frog,-22.3553965,172.490156,United States of America,2024-03-22,0,Rainforest,Extreme,Observation,Medium
+OCC-003-0110,CREATURE-003,Phyllobates terribilis,Poison Frog,-49.6344675,-1.027617,Belgium,2024-02-14,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0111,CREATURE-003,Phyllobates terribilis,Poison Frog,-52.0356085,7.808605,Georgia,2026-01-17,0,Rainforest,Extreme,Observation,High
+OCC-003-0112,CREATURE-003,Phyllobates terribilis,Poison Frog,87.7405535,30.430840,Bulgaria,2024-03-08,0,Rainforest,Extreme,Preserved Specimen,High
+OCC-003-0113,CREATURE-003,Phyllobates terribilis,Poison Frog,-67.258413,-13.794491,Monaco,2023-02-03,0,Rainforest,Extreme,Observation,High
+OCC-004-0000,CREATURE-004,Bugula neritina,Bryozoan,-1.825247,-111.391248,Paraguay,2024-09-21,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0001,CREATURE-004,Bugula neritina,Bryozoan,51.3026365,-129.827821,Oman,2024-07-23,0,Marine Docks,Low,Observation,High
+OCC-004-0002,CREATURE-004,Bugula neritina,Bryozoan,46.496339,14.254981,Andorra,2023-01-08,0,Marine Docks,Low,Observation,High
+OCC-004-0003,CREATURE-004,Bugula neritina,Bryozoan,-41.6110415,-65.006190,Guam,2025-12-12,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0004,CREATURE-004,Bugula neritina,Bryozoan,40.5323565,-76.917975,Czech Republic,2026-03-17,0,Marine Docks,Low,Observation,Medium
+OCC-004-0005,CREATURE-004,Bugula neritina,Bryozoan,-48.4072205,-138.572310,French Polynesia,2025-06-06,0,Marine Docks,Low,Observation,High
+OCC-004-0006,CREATURE-004,Bugula neritina,Bryozoan,-62.8502335,92.563839,Sierra Leone,2023-11-28,0,Marine Docks,Low,Observation,High
+OCC-004-0007,CREATURE-004,Bugula neritina,Bryozoan,51.339759,-159.734472,Panama,2022-11-22,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0008,CREATURE-004,Bugula neritina,Bryozoan,75.9015595,-109.643581,Nepal,2023-02-03,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0009,CREATURE-004,Bugula neritina,Bryozoan,-46.447096,-82.909064,Switzerland,2024-09-02,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0010,CREATURE-004,Bugula neritina,Bryozoan,77.7024955,-91.126838,Saint Helena,2023-05-25,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0011,CREATURE-004,Bugula neritina,Bryozoan,20.289019,15.581757,Philippines,2024-10-21,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0012,CREATURE-004,Bugula neritina,Bryozoan,29.2386825,147.810920,Finland,2024-12-20,0,Marine Docks,Low,Observation,High
+OCC-004-0013,CREATURE-004,Bugula neritina,Bryozoan,30.5081825,-54.370626,Martinique,2022-05-27,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0014,CREATURE-004,Bugula neritina,Bryozoan,35.900416,-75.838358,Heard Island and McDonald Islands,2024-08-07,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0015,CREATURE-004,Bugula neritina,Bryozoan,63.1207895,56.543931,Kyrgyz Republic,2025-01-20,0,Marine Docks,Low,Observation,High
+OCC-004-0016,CREATURE-004,Bugula neritina,Bryozoan,12.5081015,89.995974,Marshall Islands,2023-04-20,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0017,CREATURE-004,Bugula neritina,Bryozoan,-46.4978405,-72.788097,Spain,2024-03-25,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0018,CREATURE-004,Bugula neritina,Bryozoan,-22.890273,-151.986183,Norway,2023-08-12,0,Marine Docks,Low,Observation,High
+OCC-004-0019,CREATURE-004,Bugula neritina,Bryozoan,9.646490,117.716795,Vietnam,2021-09-20,0,Marine Docks,Low,Observation,High
+OCC-004-0020,CREATURE-004,Bugula neritina,Bryozoan,48.488371,-113.064132,Finland,2021-08-17,0,Marine Docks,Low,Observation,Medium
+OCC-004-0021,CREATURE-004,Bugula neritina,Bryozoan,-46.9664845,-33.546287,Korea,2025-09-25,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0022,CREATURE-004,Bugula neritina,Bryozoan,-50.4463975,54.866294,Bermuda,2025-12-10,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0023,CREATURE-004,Bugula neritina,Bryozoan,-30.3971265,62.197494,Turks and Caicos Islands,2022-12-15,0,Marine Docks,Low,Observation,High
+OCC-004-0024,CREATURE-004,Bugula neritina,Bryozoan,-82.840775,42.746083,Austria,2023-03-11,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0025,CREATURE-004,Bugula neritina,Bryozoan,10.384523,-53.417612,Hungary,2026-03-07,0,Marine Docks,Low,Literature,High
+OCC-004-0026,CREATURE-004,Bugula neritina,Bryozoan,10.6398545,-59.451670,Antarctica (the territory South of 60 deg S),2022-10-20,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0027,CREATURE-004,Bugula neritina,Bryozoan,-63.4025765,168.944985,Grenada,2025-03-01,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0028,CREATURE-004,Bugula neritina,Bryozoan,-53.0633905,-159.436129,France,2025-10-18,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0029,CREATURE-004,Bugula neritina,Bryozoan,36.8236545,-105.486242,Senegal,2024-09-26,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0030,CREATURE-004,Bugula neritina,Bryozoan,30.4205415,150.362580,Albania,2025-09-27,0,Marine Docks,Low,Observation,Medium
+OCC-004-0031,CREATURE-004,Bugula neritina,Bryozoan,-84.898683,-42.601888,Cuba,2025-05-20,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0032,CREATURE-004,Bugula neritina,Bryozoan,57.318516,146.890014,Marshall Islands,2023-04-29,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0033,CREATURE-004,Bugula neritina,Bryozoan,-12.6633215,-52.417873,Gabon,2021-10-25,0,Marine Docks,Low,Observation,High
+OCC-004-0034,CREATURE-004,Bugula neritina,Bryozoan,-25.9943835,45.392121,Northern Mariana Islands,2025-03-06,0,Marine Docks,Low,Observation,High
+OCC-004-0035,CREATURE-004,Bugula neritina,Bryozoan,32.705503,-146.280666,Bouvet Island (Bouvetoya),2025-05-23,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0036,CREATURE-004,Bugula neritina,Bryozoan,44.171884,140.371833,Mauritania,2021-04-16,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0037,CREATURE-004,Bugula neritina,Bryozoan,48.345119,128.726255,Dominican Republic,2024-10-19,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0038,CREATURE-004,Bugula neritina,Bryozoan,-11.8122715,50.445876,Afghanistan,2024-04-13,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0039,CREATURE-004,Bugula neritina,Bryozoan,-25.4240285,126.372750,Israel,2022-02-22,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0040,CREATURE-004,Bugula neritina,Bryozoan,89.3725725,-134.036359,Malta,2026-01-30,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0041,CREATURE-004,Bugula neritina,Bryozoan,-71.8324705,102.426012,Mayotte,2023-09-29,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0042,CREATURE-004,Bugula neritina,Bryozoan,46.263901,117.508067,Angola,2023-02-28,0,Marine Docks,Low,Observation,High
+OCC-004-0043,CREATURE-004,Bugula neritina,Bryozoan,36.200925,-156.627633,North Macedonia,2023-02-21,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0044,CREATURE-004,Bugula neritina,Bryozoan,10.207597,-43.822554,San Marino,2021-04-15,0,Marine Docks,Low,Observation,Medium
+OCC-004-0045,CREATURE-004,Bugula neritina,Bryozoan,-71.864620,5.114431,Dominican Republic,2024-11-15,0,Marine Docks,Low,Observation,High
+OCC-004-0046,CREATURE-004,Bugula neritina,Bryozoan,78.6464445,-124.345885,Sierra Leone,2024-02-13,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0047,CREATURE-004,Bugula neritina,Bryozoan,-0.740216,-108.376269,Aruba,2022-12-20,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0048,CREATURE-004,Bugula neritina,Bryozoan,0.8780875,165.098270,China,2025-05-12,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0049,CREATURE-004,Bugula neritina,Bryozoan,34.7212585,76.909467,Norfolk Island,2022-02-13,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0050,CREATURE-004,Bugula neritina,Bryozoan,-53.8007855,-146.123158,Saint Barthelemy,2025-02-02,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0051,CREATURE-004,Bugula neritina,Bryozoan,32.857426,-160.144478,French Polynesia,2022-03-20,0,Marine Docks,Low,Observation,High
+OCC-004-0052,CREATURE-004,Bugula neritina,Bryozoan,-36.455225,-157.501919,Germany,2025-11-16,0,Marine Docks,Low,Observation,High
+OCC-004-0053,CREATURE-004,Bugula neritina,Bryozoan,48.347228,33.794911,Suriname,2023-12-04,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0054,CREATURE-004,Bugula neritina,Bryozoan,-22.0016035,-160.339376,Sao Tome and Principe,2024-06-10,0,Marine Docks,Low,Observation,High
+OCC-004-0055,CREATURE-004,Bugula neritina,Bryozoan,-13.1976915,11.649051,Tokelau,2025-02-10,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0056,CREATURE-004,Bugula neritina,Bryozoan,86.0215485,-1.799291,Faroe Islands,2021-10-30,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0057,CREATURE-004,Bugula neritina,Bryozoan,8.789394,54.586485,Tuvalu,2023-03-17,0,Marine Docks,Low,Literature,High
+OCC-004-0058,CREATURE-004,Bugula neritina,Bryozoan,28.0409035,27.578330,Guadeloupe,2026-01-28,0,Marine Docks,Low,Literature,High
+OCC-004-0059,CREATURE-004,Bugula neritina,Bryozoan,43.1985395,87.105836,Heard Island and McDonald Islands,2025-10-30,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0060,CREATURE-004,Bugula neritina,Bryozoan,49.392050,-36.805419,Spain,2021-08-14,0,Marine Docks,Low,Observation,Medium
+OCC-004-0061,CREATURE-004,Bugula neritina,Bryozoan,23.9507605,-137.626388,Jersey,2024-03-21,0,Marine Docks,Low,Observation,High
+OCC-004-0062,CREATURE-004,Bugula neritina,Bryozoan,-41.559082,112.849337,French Polynesia,2022-10-24,0,Marine Docks,Low,Observation,Medium
+OCC-004-0063,CREATURE-004,Bugula neritina,Bryozoan,-68.506665,-3.949342,Panama,2022-09-08,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0064,CREATURE-004,Bugula neritina,Bryozoan,29.6996005,143.530023,Saint Barthelemy,2023-05-04,0,Marine Docks,Low,Preserved Specimen,Low
+OCC-004-0065,CREATURE-004,Bugula neritina,Bryozoan,29.160749,8.735351,Kiribati,2021-06-02,0,Marine Docks,Low,Literature,High
+OCC-004-0066,CREATURE-004,Bugula neritina,Bryozoan,4.639419,150.095874,Jordan,2022-07-31,0,Marine Docks,Low,Observation,Medium
+OCC-004-0067,CREATURE-004,Bugula neritina,Bryozoan,-74.603061,-139.712581,Paraguay,2024-05-24,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0068,CREATURE-004,Bugula neritina,Bryozoan,7.5255895,95.460958,Spain,2024-12-16,0,Marine Docks,Low,Literature,High
+OCC-004-0069,CREATURE-004,Bugula neritina,Bryozoan,-47.0538915,-163.281506,Cambodia,2025-06-14,0,Marine Docks,Low,Observation,High
+OCC-004-0070,CREATURE-004,Bugula neritina,Bryozoan,27.621122,-161.317446,Brunei Darussalam,2021-07-17,0,Marine Docks,Low,Literature,Low
+OCC-004-0071,CREATURE-004,Bugula neritina,Bryozoan,83.1845915,16.671100,Guyana,2023-02-14,0,Marine Docks,Low,Literature,High
+OCC-004-0072,CREATURE-004,Bugula neritina,Bryozoan,62.2685755,-162.613264,Netherlands,2021-12-22,0,Marine Docks,Low,Observation,Medium
+OCC-004-0073,CREATURE-004,Bugula neritina,Bryozoan,30.775169,19.160055,Holy See (Vatican City State),2023-06-06,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0074,CREATURE-004,Bugula neritina,Bryozoan,-69.361225,128.121909,Burundi,2023-11-09,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0075,CREATURE-004,Bugula neritina,Bryozoan,16.846451,-11.215602,Pakistan,2022-08-08,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0076,CREATURE-004,Bugula neritina,Bryozoan,-59.546369,-166.087883,Saint Pierre and Miquelon,2022-02-19,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0077,CREATURE-004,Bugula neritina,Bryozoan,48.981188,27.762265,United States Minor Outlying Islands,2024-01-07,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0078,CREATURE-004,Bugula neritina,Bryozoan,-19.729860,-40.257996,Romania,2023-06-10,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0079,CREATURE-004,Bugula neritina,Bryozoan,74.249531,-26.682083,Puerto Rico,2025-10-16,0,Marine Docks,Low,Preserved Specimen,Medium
+OCC-004-0080,CREATURE-004,Bugula neritina,Bryozoan,41.855548,-72.530072,British Virgin Islands,2021-11-19,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0081,CREATURE-004,Bugula neritina,Bryozoan,-70.1218065,62.688571,China,2025-09-13,0,Marine Docks,Low,Observation,High
+OCC-004-0082,CREATURE-004,Bugula neritina,Bryozoan,29.4836245,-132.867707,Sudan,2024-08-13,0,Marine Docks,Low,Preserved Specimen,High
+OCC-004-0083,CREATURE-004,Bugula neritina,Bryozoan,-4.2113115,178.543756,Guatemala,2024-10-03,0,Marine Docks,Low,Observation,High
+OCC-004-0084,CREATURE-004,Bugula neritina,Bryozoan,57.6387345,111.076033,French Guiana,2025-08-31,0,Marine Docks,Low,Observation,High
+OCC-004-0085,CREATURE-004,Bugula neritina,Bryozoan,-47.720008,162.362593,China,2025-03-06,0,Marine Docks,Low,Literature,Medium
+OCC-004-0086,CREATURE-004,Bugula neritina,Bryozoan,46.568080,-59.611199,British Virgin Islands,2026-02-18,0,Marine Docks,Low,Literature,High
+OCC-004-0087,CREATURE-004,Bugula neritina,Bryozoan,-52.720524,-52.903230,Somalia,2023-09-05,0,Marine Docks,Low,Observation,High
+OCC-004-0088,CREATURE-004,Bugula neritina,Bryozoan,6.877423,117.437995,Montserrat,2023-01-20,0,Marine Docks,Low,Preserved Specimen,High
+OCC-005-0000,CREATURE-005,Salinispora tropica,Marine Bacteria,58.0815975,-110.329604,New Zealand,2025-08-18,546,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0001,CREATURE-005,Salinispora tropica,Marine Bacteria,-72.3508765,-13.950809,Indonesia,2026-03-17,746,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0002,CREATURE-005,Salinispora tropica,Marine Bacteria,38.4906865,102.230707,Isle of Man,2025-01-20,250,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0003,CREATURE-005,Salinispora tropica,Marine Bacteria,64.323680,-140.405388,Brunei Darussalam,2026-01-26,167,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0004,CREATURE-005,Salinispora tropica,Marine Bacteria,82.4264525,-140.182960,Korea,2023-07-16,473,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0005,CREATURE-005,Salinispora tropica,Marine Bacteria,48.877771,4.959964,Brunei Darussalam,2025-08-07,388,Ocean Sediment,Low,Literature,High
+OCC-005-0006,CREATURE-005,Salinispora tropica,Marine Bacteria,57.989390,163.486748,Namibia,2022-02-12,276,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0007,CREATURE-005,Salinispora tropica,Marine Bacteria,-55.3629785,52.260173,Macao,2025-10-05,947,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0008,CREATURE-005,Salinispora tropica,Marine Bacteria,-75.1252265,-113.341505,Maldives,2021-12-21,655,Ocean Sediment,Low,Observation,High
+OCC-005-0009,CREATURE-005,Salinispora tropica,Marine Bacteria,-45.800201,-93.044650,Gibraltar,2025-11-18,704,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0010,CREATURE-005,Salinispora tropica,Marine Bacteria,-29.475781,5.769726,Yemen,2025-11-30,570,Ocean Sediment,Low,Literature,High
+OCC-005-0011,CREATURE-005,Salinispora tropica,Marine Bacteria,-13.751363,-137.662411,El Salvador,2022-03-10,224,Ocean Sediment,Low,Observation,High
+OCC-005-0012,CREATURE-005,Salinispora tropica,Marine Bacteria,57.8653675,-32.655224,Brunei Darussalam,2024-05-01,701,Ocean Sediment,Low,Literature,High
+OCC-005-0013,CREATURE-005,Salinispora tropica,Marine Bacteria,74.9343355,106.408837,Bermuda,2023-09-21,332,Ocean Sediment,Low,Literature,High
+OCC-005-0014,CREATURE-005,Salinispora tropica,Marine Bacteria,-44.7321455,137.724738,Western Sahara,2024-02-10,863,Ocean Sediment,Low,Observation,High
+OCC-005-0015,CREATURE-005,Salinispora tropica,Marine Bacteria,-44.0436835,173.654517,Nigeria,2024-10-23,786,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0016,CREATURE-005,Salinispora tropica,Marine Bacteria,72.4407385,1.258135,Tajikistan,2025-10-30,794,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0017,CREATURE-005,Salinispora tropica,Marine Bacteria,-78.941989,-164.767097,Belgium,2021-06-08,57,Ocean Sediment,Low,Observation,High
+OCC-005-0018,CREATURE-005,Salinispora tropica,Marine Bacteria,82.1889245,129.651698,Estonia,2024-06-18,234,Ocean Sediment,Low,Preserved Specimen,Low
+OCC-005-0019,CREATURE-005,Salinispora tropica,Marine Bacteria,63.581911,43.653325,Niger,2024-05-27,841,Ocean Sediment,Low,Observation,Medium
+OCC-005-0020,CREATURE-005,Salinispora tropica,Marine Bacteria,43.6910725,156.706115,Mayotte,2022-08-28,32,Ocean Sediment,Low,Literature,High
+OCC-005-0021,CREATURE-005,Salinispora tropica,Marine Bacteria,-8.9072285,79.279025,Ecuador,2025-03-26,824,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0022,CREATURE-005,Salinispora tropica,Marine Bacteria,19.009632,-20.316406,Korea,2021-07-28,323,Ocean Sediment,Low,Observation,High
+OCC-005-0023,CREATURE-005,Salinispora tropica,Marine Bacteria,-73.9172165,-95.131205,Kazakhstan,2023-04-15,410,Ocean Sediment,Low,Observation,High
+OCC-005-0024,CREATURE-005,Salinispora tropica,Marine Bacteria,34.6727435,-70.465979,Guam,2024-03-29,274,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0025,CREATURE-005,Salinispora tropica,Marine Bacteria,-6.0917755,-8.568319,Saint Martin,2026-02-24,67,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0026,CREATURE-005,Salinispora tropica,Marine Bacteria,2.7097025,34.059350,Bulgaria,2025-01-04,216,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0027,CREATURE-005,Salinispora tropica,Marine Bacteria,48.2389265,121.534200,Botswana,2022-10-21,935,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0028,CREATURE-005,Salinispora tropica,Marine Bacteria,35.2177765,-114.221551,Ethiopia,2023-06-16,965,Ocean Sediment,Low,Observation,Low
+OCC-005-0029,CREATURE-005,Salinispora tropica,Marine Bacteria,-52.1834465,-128.024638,Australia,2022-08-29,580,Ocean Sediment,Low,Observation,Medium
+OCC-005-0030,CREATURE-005,Salinispora tropica,Marine Bacteria,13.119434,150.378248,Italy,2022-06-13,897,Ocean Sediment,Low,Observation,High
+OCC-005-0031,CREATURE-005,Salinispora tropica,Marine Bacteria,-47.1309485,-4.209235,Vietnam,2024-02-05,735,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0032,CREATURE-005,Salinispora tropica,Marine Bacteria,-6.056228,-78.083594,Serbia,2022-01-02,322,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0033,CREATURE-005,Salinispora tropica,Marine Bacteria,48.1703965,70.619459,Luxembourg,2025-08-09,217,Ocean Sediment,Low,Observation,High
+OCC-005-0034,CREATURE-005,Salinispora tropica,Marine Bacteria,43.5118165,-167.557318,Bermuda,2025-12-07,671,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0035,CREATURE-005,Salinispora tropica,Marine Bacteria,45.6792145,65.473829,Dominican Republic,2022-04-14,511,Ocean Sediment,Low,Observation,High
+OCC-005-0036,CREATURE-005,Salinispora tropica,Marine Bacteria,4.7295555,-153.876863,Australia,2022-08-13,405,Ocean Sediment,Low,Observation,High
+OCC-005-0037,CREATURE-005,Salinispora tropica,Marine Bacteria,70.3952235,171.253182,Peru,2023-07-24,905,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0038,CREATURE-005,Salinispora tropica,Marine Bacteria,54.0668265,-175.609791,Tanzania,2021-09-29,936,Ocean Sediment,Low,Observation,High
+OCC-005-0039,CREATURE-005,Salinispora tropica,Marine Bacteria,-54.047114,-38.012196,Saint Lucia,2023-01-14,658,Ocean Sediment,Low,Observation,High
+OCC-005-0040,CREATURE-005,Salinispora tropica,Marine Bacteria,18.2476915,16.461120,Aruba,2023-03-18,469,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0041,CREATURE-005,Salinispora tropica,Marine Bacteria,63.0838125,121.623135,Congo,2023-01-08,146,Ocean Sediment,Low,Observation,High
+OCC-005-0042,CREATURE-005,Salinispora tropica,Marine Bacteria,-12.529071,-140.522944,Hungary,2023-09-24,271,Ocean Sediment,Low,Observation,Medium
+OCC-005-0043,CREATURE-005,Salinispora tropica,Marine Bacteria,57.6011395,-29.826106,Sweden,2026-02-26,142,Ocean Sediment,Low,Observation,Medium
+OCC-005-0044,CREATURE-005,Salinispora tropica,Marine Bacteria,74.025645,-116.213819,Brunei Darussalam,2026-01-31,252,Ocean Sediment,Low,Observation,High
+OCC-005-0045,CREATURE-005,Salinispora tropica,Marine Bacteria,15.7377235,20.359330,South Africa,2026-02-21,762,Ocean Sediment,Low,Observation,Medium
+OCC-005-0046,CREATURE-005,Salinispora tropica,Marine Bacteria,59.7418425,16.283426,Saudi Arabia,2021-12-05,574,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0047,CREATURE-005,Salinispora tropica,Marine Bacteria,71.7224175,93.333068,Iran,2023-09-16,551,Ocean Sediment,Low,Observation,High
+OCC-005-0048,CREATURE-005,Salinispora tropica,Marine Bacteria,-77.838973,-159.108224,Burundi,2024-10-10,269,Ocean Sediment,Low,Observation,High
+OCC-005-0049,CREATURE-005,Salinispora tropica,Marine Bacteria,37.1697275,98.814625,Korea,2021-12-14,764,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0050,CREATURE-005,Salinispora tropica,Marine Bacteria,48.380017,-104.955653,Greece,2025-11-12,598,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0051,CREATURE-005,Salinispora tropica,Marine Bacteria,-4.495246,-92.757379,India,2026-02-28,438,Ocean Sediment,Low,Observation,High
+OCC-005-0052,CREATURE-005,Salinispora tropica,Marine Bacteria,-9.674894,138.753496,Guadeloupe,2023-09-29,919,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0053,CREATURE-005,Salinispora tropica,Marine Bacteria,46.8253365,105.797770,Liechtenstein,2024-10-01,597,Ocean Sediment,Low,Observation,Low
+OCC-005-0054,CREATURE-005,Salinispora tropica,Marine Bacteria,-9.5255825,74.956021,Suriname,2021-04-16,408,Ocean Sediment,Low,Observation,High
+OCC-005-0055,CREATURE-005,Salinispora tropica,Marine Bacteria,-1.0835495,-121.156485,Israel,2024-02-16,370,Ocean Sediment,Low,Observation,High
+OCC-005-0056,CREATURE-005,Salinispora tropica,Marine Bacteria,78.9158255,-165.693918,Nepal,2023-08-01,224,Ocean Sediment,Low,Observation,High
+OCC-005-0057,CREATURE-005,Salinispora tropica,Marine Bacteria,85.983861,130.566043,Morocco,2022-05-06,141,Ocean Sediment,Low,Observation,High
+OCC-005-0058,CREATURE-005,Salinispora tropica,Marine Bacteria,-76.2144535,133.276674,Lesotho,2022-01-22,521,Ocean Sediment,Low,Literature,High
+OCC-005-0059,CREATURE-005,Salinispora tropica,Marine Bacteria,78.852676,152.718127,Singapore,2025-05-31,505,Ocean Sediment,Low,Observation,Medium
+OCC-005-0060,CREATURE-005,Salinispora tropica,Marine Bacteria,-50.3317605,-49.971711,Antigua and Barbuda,2024-01-27,93,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0061,CREATURE-005,Salinispora tropica,Marine Bacteria,-60.5001455,-77.573442,Andorra,2023-05-31,773,Ocean Sediment,Low,Observation,High
+OCC-005-0062,CREATURE-005,Salinispora tropica,Marine Bacteria,22.415480,-98.700962,Isle of Man,2024-08-29,48,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0063,CREATURE-005,Salinispora tropica,Marine Bacteria,20.159846,89.412294,Singapore,2024-04-07,881,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0064,CREATURE-005,Salinispora tropica,Marine Bacteria,36.595626,-146.562989,Romania,2021-11-24,112,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0065,CREATURE-005,Salinispora tropica,Marine Bacteria,-34.342135,121.123792,Greece,2026-03-14,156,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0066,CREATURE-005,Salinispora tropica,Marine Bacteria,38.411733,102.113397,Honduras,2022-10-11,642,Ocean Sediment,Low,Literature,Low
+OCC-005-0067,CREATURE-005,Salinispora tropica,Marine Bacteria,-43.511697,66.779977,United States Minor Outlying Islands,2023-11-16,163,Ocean Sediment,Low,Observation,High
+OCC-005-0068,CREATURE-005,Salinispora tropica,Marine Bacteria,56.6391005,10.206377,Philippines,2025-01-25,811,Ocean Sediment,Low,Observation,High
+OCC-005-0069,CREATURE-005,Salinispora tropica,Marine Bacteria,82.6869715,-38.071636,New Zealand,2023-08-18,696,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0070,CREATURE-005,Salinispora tropica,Marine Bacteria,-23.825523,-30.209583,Moldova,2022-09-13,432,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0071,CREATURE-005,Salinispora tropica,Marine Bacteria,-10.109700,-24.842085,Romania,2022-03-30,610,Ocean Sediment,Low,Observation,High
+OCC-005-0072,CREATURE-005,Salinispora tropica,Marine Bacteria,41.2657655,-9.790047,Lesotho,2022-12-14,65,Ocean Sediment,Low,Preserved Specimen,Low
+OCC-005-0073,CREATURE-005,Salinispora tropica,Marine Bacteria,-16.5943015,-25.494256,British Virgin Islands,2024-01-28,394,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0074,CREATURE-005,Salinispora tropica,Marine Bacteria,55.811691,23.846761,Ukraine,2026-02-09,390,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0075,CREATURE-005,Salinispora tropica,Marine Bacteria,2.6463835,-101.361230,French Guiana,2021-06-01,610,Ocean Sediment,Low,Observation,High
+OCC-005-0076,CREATURE-005,Salinispora tropica,Marine Bacteria,-68.785698,5.952495,Uzbekistan,2023-06-03,479,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0077,CREATURE-005,Salinispora tropica,Marine Bacteria,-21.1613455,77.203722,Croatia,2022-03-21,541,Ocean Sediment,Low,Observation,High
+OCC-005-0078,CREATURE-005,Salinispora tropica,Marine Bacteria,54.573410,-34.436732,Venezuela,2024-01-07,257,Ocean Sediment,Low,Literature,High
+OCC-005-0079,CREATURE-005,Salinispora tropica,Marine Bacteria,-17.0871665,-106.302142,Botswana,2024-04-14,994,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0080,CREATURE-005,Salinispora tropica,Marine Bacteria,67.526113,-51.536417,Ecuador,2021-06-17,566,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0081,CREATURE-005,Salinispora tropica,Marine Bacteria,52.550365,-58.843457,Northern Mariana Islands,2022-05-16,881,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0082,CREATURE-005,Salinispora tropica,Marine Bacteria,-63.1033155,41.889481,Greenland,2024-10-17,965,Ocean Sediment,Low,Literature,High
+OCC-005-0083,CREATURE-005,Salinispora tropica,Marine Bacteria,-63.010183,-106.197947,Albania,2026-01-12,11,Ocean Sediment,Low,Observation,High
+OCC-005-0084,CREATURE-005,Salinispora tropica,Marine Bacteria,-47.603015,38.456775,Palau,2025-11-19,696,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0085,CREATURE-005,Salinispora tropica,Marine Bacteria,37.694650,76.328220,Pakistan,2022-03-16,738,Ocean Sediment,Low,Observation,High
+OCC-005-0086,CREATURE-005,Salinispora tropica,Marine Bacteria,-12.8932465,-7.574402,France,2024-06-09,117,Ocean Sediment,Low,Observation,High
+OCC-005-0087,CREATURE-005,Salinispora tropica,Marine Bacteria,-65.985572,170.200214,Montserrat,2022-05-15,698,Ocean Sediment,Low,Literature,High
+OCC-005-0088,CREATURE-005,Salinispora tropica,Marine Bacteria,-79.987829,-86.012813,Israel,2025-08-14,906,Ocean Sediment,Low,Observation,Medium
+OCC-005-0089,CREATURE-005,Salinispora tropica,Marine Bacteria,-42.812080,-160.490195,Taiwan,2023-03-12,549,Ocean Sediment,Low,Observation,Medium
+OCC-005-0090,CREATURE-005,Salinispora tropica,Marine Bacteria,42.9786025,-79.974708,Vietnam,2024-12-14,768,Ocean Sediment,Low,Observation,High
+OCC-005-0091,CREATURE-005,Salinispora tropica,Marine Bacteria,-12.296801,-159.885497,Algeria,2022-09-13,273,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0092,CREATURE-005,Salinispora tropica,Marine Bacteria,71.8083205,-122.393381,Vanuatu,2026-02-14,787,Ocean Sediment,Low,Literature,High
+OCC-005-0093,CREATURE-005,Salinispora tropica,Marine Bacteria,-13.613564,63.926800,Norway,2023-12-04,656,Ocean Sediment,Low,Observation,High
+OCC-005-0094,CREATURE-005,Salinispora tropica,Marine Bacteria,42.583605,-107.951955,Thailand,2023-09-24,348,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0095,CREATURE-005,Salinispora tropica,Marine Bacteria,-16.7608535,-76.485169,Sudan,2021-10-08,114,Ocean Sediment,Low,Observation,High
+OCC-005-0096,CREATURE-005,Salinispora tropica,Marine Bacteria,-46.3807795,66.377829,Oman,2022-06-30,300,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0097,CREATURE-005,Salinispora tropica,Marine Bacteria,-40.0175675,-172.438607,Saint Pierre and Miquelon,2022-11-22,445,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0098,CREATURE-005,Salinispora tropica,Marine Bacteria,-10.805030,124.825222,Peru,2024-12-29,161,Ocean Sediment,Low,Preserved Specimen,Medium
+OCC-005-0099,CREATURE-005,Salinispora tropica,Marine Bacteria,-42.8909435,148.003698,Togo,2024-05-26,464,Ocean Sediment,Low,Preserved Specimen,High
+OCC-005-0100,CREATURE-005,Salinispora tropica,Marine Bacteria,18.8479925,49.621434,Malaysia,2022-11-06,3,Ocean Sediment,Low,Preserved Specimen,High
+OCC-006-0000,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,17.5978555,179.304002,Bhutan,2022-02-17,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0001,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-52.254787,76.331218,Gibraltar,2025-11-20,0,Deep Ocean,Low,Observation,High
+OCC-006-0002,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-88.166553,-39.991971,Hungary,2022-05-21,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0003,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-18.3292575,-3.033764,Gabon,2024-02-14,0,Deep Ocean,Low,Preserved Specimen,Low
+OCC-006-0004,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,63.780593,-173.860487,Eritrea,2024-06-23,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0005,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-26.5680095,-146.647255,Papua New Guinea,2021-10-18,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0006,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-7.6422995,-94.252682,Iraq,2024-08-21,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0007,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-6.522494,-116.962904,Northern Mariana Islands,2025-10-15,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0008,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-10.8014465,17.323628,Nicaragua,2022-04-24,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0009,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-54.145403,76.721952,Cape Verde,2023-06-26,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0010,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,72.601811,20.588309,Israel,2024-09-19,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0011,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,36.3869495,108.577610,Spain,2024-07-12,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0012,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-31.370578,-47.143010,Pitcairn Islands,2024-12-24,0,Deep Ocean,Low,Observation,High
+OCC-006-0013,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-68.023107,102.129237,Kiribati,2023-11-06,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0014,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,7.115886,-138.068923,United States Virgin Islands,2024-01-11,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0015,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-73.4219505,114.016950,United Kingdom,2023-09-26,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0016,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,63.733435,108.117229,Canada,2022-01-11,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0017,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,49.6781185,57.211342,Brazil,2024-08-10,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0018,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,66.537512,82.437519,Bermuda,2025-09-14,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0019,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,29.5833485,-150.130754,Korea,2021-11-13,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0020,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,21.5146845,65.241813,Mongolia,2021-06-30,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0021,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,34.118731,-14.552727,Saint Kitts and Nevis,2021-04-25,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0022,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-21.694661,-178.381082,Samoa,2022-04-19,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0023,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-70.3962855,-155.685223,Jamaica,2022-12-06,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0024,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-72.884579,110.534942,Bahamas,2025-11-18,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0025,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-71.472815,73.441297,Antigua and Barbuda,2022-08-23,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0026,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-41.6866315,-107.292182,Seychelles,2024-06-01,0,Deep Ocean,Low,Observation,High
+OCC-006-0027,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,83.377310,45.680099,Holy See (Vatican City State),2026-03-04,0,Deep Ocean,Low,Literature,High
+OCC-006-0028,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,12.671091,60.806539,Trinidad and Tobago,2025-10-17,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0029,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,11.333405,21.673162,Belgium,2024-08-15,0,Deep Ocean,Low,Observation,High
+OCC-006-0030,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,87.648580,109.534625,Burkina Faso,2024-06-23,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0031,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,3.3537695,-116.309302,Christmas Island,2026-03-04,0,Deep Ocean,Low,Preserved Specimen,Low
+OCC-006-0032,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,15.5108725,103.920178,Brunei Darussalam,2024-11-05,0,Deep Ocean,Low,Literature,High
+OCC-006-0033,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-30.2220505,-178.135292,Saudi Arabia,2021-04-27,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0034,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-9.9087945,68.573324,Peru,2024-10-20,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0035,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,23.851001,105.579683,Hong Kong,2025-04-29,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0036,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-23.558993,67.296312,Guatemala,2021-12-25,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0037,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-39.4051645,-119.416993,Antigua and Barbuda,2025-04-03,0,Deep Ocean,Low,Observation,High
+OCC-006-0038,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,22.5390415,150.134380,Seychelles,2025-11-21,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0039,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-85.8001135,-50.793268,Costa Rica,2021-07-17,0,Deep Ocean,Low,Literature,High
+OCC-006-0040,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,69.4356695,-161.973876,Kiribati,2024-03-13,0,Deep Ocean,Low,Observation,High
+OCC-006-0041,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-76.9335495,-48.609354,Saint Vincent and the Grenadines,2021-06-05,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0042,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,27.833183,-54.190060,Mauritius,2022-04-17,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0043,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-74.848419,-104.765286,Macao,2026-03-06,0,Deep Ocean,Low,Literature,High
+OCC-006-0044,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-27.1427465,129.296883,Ghana,2024-02-05,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0045,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-3.922113,-52.813115,Gabon,2025-08-03,0,Deep Ocean,Low,Literature,High
+OCC-006-0046,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,87.224422,99.844531,Cyprus,2023-04-11,0,Deep Ocean,Low,Observation,High
+OCC-006-0047,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-16.138931,-147.273618,Moldova,2025-12-13,0,Deep Ocean,Low,Observation,High
+OCC-006-0048,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-42.9880425,156.077506,Philippines,2023-05-06,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0049,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,43.0421935,-154.829295,Guatemala,2025-12-01,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0050,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,12.315417,101.568960,Ghana,2024-09-09,0,Deep Ocean,Low,Literature,High
+OCC-006-0051,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,19.5912385,-99.889405,French Southern Territories,2023-02-02,0,Deep Ocean,Low,Observation,High
+OCC-006-0052,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,54.399019,74.218481,Dominican Republic,2025-06-15,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0053,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-9.271684,-102.501748,Sri Lanka,2023-07-10,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0054,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-74.5316925,121.928659,Isle of Man,2026-01-18,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0055,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,59.595524,104.537188,Burkina Faso,2023-02-24,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0056,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-21.550128,-70.834423,Greenland,2024-06-10,0,Deep Ocean,Low,Literature,High
+OCC-006-0057,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,30.738730,19.220713,Bermuda,2023-11-20,0,Deep Ocean,Low,Observation,High
+OCC-006-0058,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-38.867979,-152.331483,Ethiopia,2023-02-04,0,Deep Ocean,Low,Observation,High
+OCC-006-0059,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,72.3952485,143.691310,Armenia,2025-07-30,0,Deep Ocean,Low,Literature,High
+OCC-006-0060,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-39.490301,135.456590,Saint Kitts and Nevis,2024-07-25,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0061,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-31.745071,77.372805,Cote d'Ivoire,2025-07-22,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0062,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-0.620574,-17.227171,Zimbabwe,2025-10-02,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0063,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-33.1432845,-77.981807,Saint Vincent and the Grenadines,2021-10-17,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0064,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,38.559343,-49.758777,Qatar,2024-03-25,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0065,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-35.101421,32.940212,United States Virgin Islands,2022-05-28,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0066,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-3.667129,-28.033750,Hong Kong,2023-07-16,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0067,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,84.1398095,12.876007,Gambia,2022-07-07,0,Deep Ocean,Low,Observation,High
+OCC-006-0068,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,47.6581415,86.973713,Lao People's Democratic Republic,2021-09-13,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0069,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,36.027875,-8.076065,United States Virgin Islands,2022-03-23,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0070,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-6.000635,42.227070,Aruba,2024-01-08,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0071,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-30.6021875,-101.658340,Andorra,2022-07-06,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0072,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,66.7748695,130.924988,Saint Helena,2023-04-18,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0073,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-49.087374,-74.670337,Greenland,2022-05-11,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0074,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,62.9517075,-48.074704,Luxembourg,2023-12-18,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0075,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,0.614222,-41.848751,Serbia,2025-04-26,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0076,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,82.253542,83.386497,Kuwait,2022-01-18,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0077,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,4.536571,-89.126161,Burundi,2024-10-23,0,Deep Ocean,Low,Literature,Low
+OCC-006-0078,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,41.0814145,-81.190108,United States Virgin Islands,2025-08-27,0,Deep Ocean,Low,Preserved Specimen,Low
+OCC-006-0079,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,82.2844145,-148.468469,Malta,2021-05-17,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0080,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-70.047083,178.745491,Australia,2025-01-11,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0081,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,20.7006945,-106.184799,Tajikistan,2024-05-12,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0082,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-71.7549955,-98.916576,Algeria,2022-04-20,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0083,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,32.409161,20.360599,Bahamas,2024-04-18,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0084,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,88.980609,150.991310,United States Minor Outlying Islands,2023-08-16,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0085,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,40.9574155,-171.554072,Albania,2023-11-14,0,Deep Ocean,Low,Literature,High
+OCC-006-0086,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,20.417840,-173.637557,Andorra,2023-11-09,0,Deep Ocean,Low,Observation,High
+OCC-006-0087,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-16.249845,107.622203,France,2021-04-17,0,Deep Ocean,Low,Observation,High
+OCC-006-0088,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,25.5811145,-83.756846,Botswana,2025-10-19,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0089,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,50.7636345,-100.061270,Dominican Republic,2022-03-02,0,Deep Ocean,Low,Literature,High
+OCC-006-0090,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,51.319453,-44.484016,Suriname,2022-12-24,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0091,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,16.541072,-137.576865,Holy See (Vatican City State),2026-01-02,0,Deep Ocean,Low,Observation,High
+OCC-006-0092,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,33.211269,123.333239,Ecuador,2026-02-28,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0093,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-29.3719045,-18.952342,Poland,2025-05-07,0,Deep Ocean,Low,Observation,High
+OCC-006-0094,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-68.3595605,170.971691,Togo,2024-06-16,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0095,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-81.494755,-129.802300,Iraq,2023-02-07,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0096,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,58.364663,75.553292,Azerbaijan,2024-05-23,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0097,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-43.994572,-135.608227,Luxembourg,2025-06-08,0,Deep Ocean,Low,Literature,High
+OCC-006-0098,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,83.1159695,-2.150441,Mongolia,2026-02-04,0,Deep Ocean,Low,Literature,High
+OCC-006-0099,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-64.401503,103.553300,Uruguay,2021-06-02,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0100,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-33.248167,124.289920,Lebanon,2022-07-25,0,Deep Ocean,Low,Preserved Specimen,Medium
+OCC-006-0101,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-70.042345,-29.475887,United Arab Emirates,2023-12-04,0,Deep Ocean,Low,Observation,High
+OCC-006-0102,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,86.6598555,-162.335989,Christmas Island,2025-11-07,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0103,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-5.581158,-171.593625,Cote d'Ivoire,2024-02-22,0,Deep Ocean,Low,Observation,Medium
+OCC-006-0104,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,16.916773,-138.694499,French Southern Territories,2022-01-07,0,Deep Ocean,Low,Observation,High
+OCC-006-0105,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-25.448737,124.242552,Syrian Arab Republic,2025-06-15,0,Deep Ocean,Low,Observation,High
+OCC-006-0106,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,55.1061235,-1.903898,Hungary,2024-12-26,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0107,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-52.4322995,-137.894455,Macao,2024-12-07,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0108,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,2.840952,-151.171947,Bolivia,2023-05-24,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0109,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,-69.594007,2.854337,Netherlands,2025-01-19,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0110,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,69.882483,32.978324,Singapore,2022-11-03,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0111,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,80.2210835,-33.258671,Slovenia,2026-03-04,0,Deep Ocean,Low,Preserved Specimen,High
+OCC-006-0112,CREATURE-006,Lissodendoryx sp.,Deep Sea Sponge,41.6953625,-57.519135,Guinea-Bissau,2023-12-22,0,Deep Ocean,Low,Observation,High
+OCC-007-0000,CREATURE-007,Pandinus imperator,Scorpion,10.7779165,51.846600,Colombia,2024-08-09,0,Desert,High,Preserved Specimen,High
+OCC-007-0001,CREATURE-007,Pandinus imperator,Scorpion,87.3477645,24.049987,Belize,2025-01-25,0,Desert,High,Preserved Specimen,High
+OCC-007-0002,CREATURE-007,Pandinus imperator,Scorpion,-10.7096745,-47.688282,Rwanda,2021-07-29,0,Desert,High,Preserved Specimen,High
+OCC-007-0003,CREATURE-007,Pandinus imperator,Scorpion,-18.066806,-97.203252,Hong Kong,2024-10-07,0,Desert,High,Preserved Specimen,High
+OCC-007-0004,CREATURE-007,Pandinus imperator,Scorpion,80.1614735,-97.173227,Saint Vincent and the Grenadines,2023-02-26,0,Desert,High,Observation,Medium
+OCC-007-0005,CREATURE-007,Pandinus imperator,Scorpion,6.8247315,-122.795909,Bermuda,2021-03-26,0,Desert,High,Observation,Medium
+OCC-007-0006,CREATURE-007,Pandinus imperator,Scorpion,-7.2500845,58.765751,Guyana,2025-01-05,0,Desert,High,Literature,High
+OCC-007-0007,CREATURE-007,Pandinus imperator,Scorpion,-62.5574625,-108.860843,Benin,2022-02-22,0,Desert,High,Preserved Specimen,High
+OCC-007-0008,CREATURE-007,Pandinus imperator,Scorpion,30.485557,119.029060,Moldova,2023-10-09,0,Desert,High,Observation,Medium
+OCC-007-0009,CREATURE-007,Pandinus imperator,Scorpion,-62.272516,-165.900747,Benin,2022-12-23,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0010,CREATURE-007,Pandinus imperator,Scorpion,-65.018253,140.471429,Netherlands Antilles,2025-02-17,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0011,CREATURE-007,Pandinus imperator,Scorpion,13.4115175,-173.374682,French Guiana,2023-04-12,0,Desert,High,Preserved Specimen,High
+OCC-007-0012,CREATURE-007,Pandinus imperator,Scorpion,-67.2636475,120.398895,United Kingdom,2026-03-04,0,Desert,High,Preserved Specimen,High
+OCC-007-0013,CREATURE-007,Pandinus imperator,Scorpion,-24.8393005,127.068916,Mali,2022-01-20,0,Desert,High,Preserved Specimen,High
+OCC-007-0014,CREATURE-007,Pandinus imperator,Scorpion,12.201975,-88.999441,Burundi,2022-07-21,0,Desert,High,Observation,High
+OCC-007-0015,CREATURE-007,Pandinus imperator,Scorpion,-17.950100,84.743900,Cameroon,2021-07-10,0,Desert,High,Preserved Specimen,High
+OCC-007-0016,CREATURE-007,Pandinus imperator,Scorpion,26.682523,-31.844099,Italy,2022-09-15,0,Desert,High,Observation,High
+OCC-007-0017,CREATURE-007,Pandinus imperator,Scorpion,-69.3515785,13.877463,El Salvador,2025-12-06,0,Desert,High,Preserved Specimen,High
+OCC-007-0018,CREATURE-007,Pandinus imperator,Scorpion,77.7812025,86.181905,Nepal,2024-04-16,0,Desert,High,Preserved Specimen,High
+OCC-007-0019,CREATURE-007,Pandinus imperator,Scorpion,32.9062975,-122.569645,Burkina Faso,2022-09-24,0,Desert,High,Preserved Specimen,High
+OCC-007-0020,CREATURE-007,Pandinus imperator,Scorpion,16.2177575,-1.642243,Tajikistan,2024-04-23,0,Desert,High,Observation,High
+OCC-007-0021,CREATURE-007,Pandinus imperator,Scorpion,-1.5393195,56.342880,Grenada,2023-05-12,0,Desert,High,Preserved Specimen,High
+OCC-007-0022,CREATURE-007,Pandinus imperator,Scorpion,84.761374,139.112270,Burkina Faso,2022-09-16,0,Desert,High,Literature,High
+OCC-007-0023,CREATURE-007,Pandinus imperator,Scorpion,71.9232915,-72.168679,Lesotho,2022-10-12,0,Desert,High,Observation,High
+OCC-007-0024,CREATURE-007,Pandinus imperator,Scorpion,16.9016235,-8.664272,French Guiana,2024-11-18,0,Desert,High,Preserved Specimen,High
+OCC-007-0025,CREATURE-007,Pandinus imperator,Scorpion,79.8934605,83.607541,Morocco,2025-02-12,0,Desert,High,Literature,High
+OCC-007-0026,CREATURE-007,Pandinus imperator,Scorpion,-2.520579,21.893153,Fiji,2025-04-16,0,Desert,High,Observation,Medium
+OCC-007-0027,CREATURE-007,Pandinus imperator,Scorpion,15.477721,15.966227,Brazil,2025-11-13,0,Desert,High,Preserved Specimen,High
+OCC-007-0028,CREATURE-007,Pandinus imperator,Scorpion,-36.366584,137.949465,Mayotte,2022-02-08,0,Desert,High,Observation,High
+OCC-007-0029,CREATURE-007,Pandinus imperator,Scorpion,57.666118,-165.549527,Zambia,2024-11-04,0,Desert,High,Observation,Medium
+OCC-007-0030,CREATURE-007,Pandinus imperator,Scorpion,-33.722938,55.393711,South Georgia and the South Sandwich Islands,2022-08-31,0,Desert,High,Preserved Specimen,High
+OCC-007-0031,CREATURE-007,Pandinus imperator,Scorpion,-71.4353615,39.656218,Peru,2023-09-15,0,Desert,High,Observation,High
+OCC-007-0032,CREATURE-007,Pandinus imperator,Scorpion,80.009849,-17.417961,Dominican Republic,2022-06-21,0,Desert,High,Observation,High
+OCC-007-0033,CREATURE-007,Pandinus imperator,Scorpion,-48.622492,47.165090,Somalia,2023-02-03,0,Desert,High,Observation,High
+OCC-007-0034,CREATURE-007,Pandinus imperator,Scorpion,30.5454295,141.013293,Lesotho,2024-02-13,0,Desert,High,Observation,High
+OCC-007-0035,CREATURE-007,Pandinus imperator,Scorpion,53.4431565,91.985591,Uzbekistan,2025-10-23,0,Desert,High,Preserved Specimen,High
+OCC-007-0036,CREATURE-007,Pandinus imperator,Scorpion,22.2867375,111.867297,Argentina,2025-02-28,0,Desert,High,Observation,Medium
+OCC-007-0037,CREATURE-007,Pandinus imperator,Scorpion,6.5104625,108.249207,Nepal,2024-05-25,0,Desert,High,Preserved Specimen,High
+OCC-007-0038,CREATURE-007,Pandinus imperator,Scorpion,-67.1878355,-121.282737,Seychelles,2022-06-13,0,Desert,High,Preserved Specimen,High
+OCC-007-0039,CREATURE-007,Pandinus imperator,Scorpion,88.4274075,10.593909,Chad,2024-06-11,0,Desert,High,Observation,High
+OCC-007-0040,CREATURE-007,Pandinus imperator,Scorpion,-78.109198,122.376588,Oman,2024-08-05,0,Desert,High,Preserved Specimen,High
+OCC-007-0041,CREATURE-007,Pandinus imperator,Scorpion,17.271570,-1.975377,South Africa,2023-05-12,0,Desert,High,Preserved Specimen,High
+OCC-007-0042,CREATURE-007,Pandinus imperator,Scorpion,-87.168603,-127.061008,Eritrea,2022-04-26,0,Desert,High,Literature,High
+OCC-007-0043,CREATURE-007,Pandinus imperator,Scorpion,49.2637155,119.570433,Mozambique,2024-08-24,0,Desert,High,Observation,High
+OCC-007-0044,CREATURE-007,Pandinus imperator,Scorpion,-30.6672445,59.325539,Holy See (Vatican City State),2023-03-01,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0045,CREATURE-007,Pandinus imperator,Scorpion,67.9984135,88.685522,Canada,2022-12-07,0,Desert,High,Observation,Low
+OCC-007-0046,CREATURE-007,Pandinus imperator,Scorpion,-83.406513,79.185754,Bosnia and Herzegovina,2022-09-07,0,Desert,High,Preserved Specimen,High
+OCC-007-0047,CREATURE-007,Pandinus imperator,Scorpion,-66.953528,-117.685752,Switzerland,2025-11-29,0,Desert,High,Observation,High
+OCC-007-0048,CREATURE-007,Pandinus imperator,Scorpion,-51.969360,7.007520,Georgia,2022-12-03,0,Desert,High,Preserved Specimen,High
+OCC-007-0049,CREATURE-007,Pandinus imperator,Scorpion,-34.469476,99.771392,Liberia,2022-12-13,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0050,CREATURE-007,Pandinus imperator,Scorpion,-63.7945165,55.238547,Saint Helena,2024-09-09,0,Desert,High,Preserved Specimen,High
+OCC-007-0051,CREATURE-007,Pandinus imperator,Scorpion,-4.3933895,-143.936049,French Southern Territories,2021-06-06,0,Desert,High,Preserved Specimen,High
+OCC-007-0052,CREATURE-007,Pandinus imperator,Scorpion,-59.107034,-167.874711,Thailand,2022-12-03,0,Desert,High,Preserved Specimen,High
+OCC-007-0053,CREATURE-007,Pandinus imperator,Scorpion,-60.643180,-91.763069,Venezuela,2026-02-16,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0054,CREATURE-007,Pandinus imperator,Scorpion,-24.525117,97.022118,China,2023-12-20,0,Desert,High,Preserved Specimen,High
+OCC-007-0055,CREATURE-007,Pandinus imperator,Scorpion,-1.1506405,120.566618,Japan,2026-01-01,0,Desert,High,Observation,High
+OCC-007-0056,CREATURE-007,Pandinus imperator,Scorpion,-27.7617515,37.458184,Norfolk Island,2022-02-16,0,Desert,High,Preserved Specimen,High
+OCC-007-0057,CREATURE-007,Pandinus imperator,Scorpion,81.927238,172.889496,Jersey,2023-03-09,0,Desert,High,Preserved Specimen,High
+OCC-007-0058,CREATURE-007,Pandinus imperator,Scorpion,74.848075,-74.062252,Korea,2024-03-02,0,Desert,High,Literature,High
+OCC-007-0059,CREATURE-007,Pandinus imperator,Scorpion,14.377311,-177.610903,Romania,2022-04-13,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0060,CREATURE-007,Pandinus imperator,Scorpion,-15.2823795,-146.411344,Morocco,2021-09-18,0,Desert,High,Preserved Specimen,High
+OCC-007-0061,CREATURE-007,Pandinus imperator,Scorpion,54.1200465,-79.626702,Haiti,2022-11-02,0,Desert,High,Preserved Specimen,Low
+OCC-007-0062,CREATURE-007,Pandinus imperator,Scorpion,32.822756,-118.820892,Estonia,2024-07-24,0,Desert,High,Preserved Specimen,High
+OCC-007-0063,CREATURE-007,Pandinus imperator,Scorpion,41.3948545,103.314840,Northern Mariana Islands,2022-10-10,0,Desert,High,Preserved Specimen,High
+OCC-007-0064,CREATURE-007,Pandinus imperator,Scorpion,14.324557,148.193710,India,2024-02-22,0,Desert,High,Preserved Specimen,High
+OCC-007-0065,CREATURE-007,Pandinus imperator,Scorpion,3.3953095,8.970465,Tanzania,2023-07-01,0,Desert,High,Observation,High
+OCC-007-0066,CREATURE-007,Pandinus imperator,Scorpion,-43.6874995,-20.310524,Uruguay,2024-04-12,0,Desert,High,Observation,Medium
+OCC-007-0067,CREATURE-007,Pandinus imperator,Scorpion,-67.2495665,-108.087340,Germany,2021-10-18,0,Desert,High,Literature,High
+OCC-007-0068,CREATURE-007,Pandinus imperator,Scorpion,-8.025179,-117.213533,Cocos (Keeling) Islands,2023-01-28,0,Desert,High,Preserved Specimen,High
+OCC-007-0069,CREATURE-007,Pandinus imperator,Scorpion,-52.0543545,94.247012,Iceland,2023-04-20,0,Desert,High,Literature,Medium
+OCC-007-0070,CREATURE-007,Pandinus imperator,Scorpion,-52.991530,128.596644,Hungary,2023-04-28,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0071,CREATURE-007,Pandinus imperator,Scorpion,40.639541,161.182345,Mauritania,2024-09-03,0,Desert,High,Preserved Specimen,High
+OCC-007-0072,CREATURE-007,Pandinus imperator,Scorpion,83.2106865,-86.995275,Moldova,2022-01-15,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0073,CREATURE-007,Pandinus imperator,Scorpion,-12.4665045,-104.678870,Colombia,2022-10-12,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0074,CREATURE-007,Pandinus imperator,Scorpion,31.0646515,152.543203,Austria,2025-07-15,0,Desert,High,Observation,Medium
+OCC-007-0075,CREATURE-007,Pandinus imperator,Scorpion,-87.427465,80.172435,Burkina Faso,2022-03-08,0,Desert,High,Preserved Specimen,High
+OCC-007-0076,CREATURE-007,Pandinus imperator,Scorpion,13.064229,121.497082,Madagascar,2024-06-22,0,Desert,High,Preserved Specimen,High
+OCC-007-0077,CREATURE-007,Pandinus imperator,Scorpion,19.8261655,83.993323,Israel,2024-10-04,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0078,CREATURE-007,Pandinus imperator,Scorpion,29.1455455,82.368555,Chad,2021-08-15,0,Desert,High,Preserved Specimen,High
+OCC-007-0079,CREATURE-007,Pandinus imperator,Scorpion,-81.715893,-61.604121,French Guiana,2021-05-15,0,Desert,High,Preserved Specimen,High
+OCC-007-0080,CREATURE-007,Pandinus imperator,Scorpion,-29.6440545,108.626429,France,2022-01-18,0,Desert,High,Observation,High
+OCC-007-0081,CREATURE-007,Pandinus imperator,Scorpion,32.7612755,123.681277,Samoa,2025-01-26,0,Desert,High,Literature,High
+OCC-007-0082,CREATURE-007,Pandinus imperator,Scorpion,42.959663,115.131996,Malawi,2021-10-09,0,Desert,High,Literature,Medium
+OCC-007-0083,CREATURE-007,Pandinus imperator,Scorpion,-59.342886,-36.178239,Singapore,2023-12-04,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0084,CREATURE-007,Pandinus imperator,Scorpion,8.478707,111.007320,Swaziland,2024-12-28,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0085,CREATURE-007,Pandinus imperator,Scorpion,28.478439,113.321180,Cuba,2026-02-27,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0086,CREATURE-007,Pandinus imperator,Scorpion,-62.5077965,170.937323,Sao Tome and Principe,2022-06-12,0,Desert,High,Observation,Medium
+OCC-007-0087,CREATURE-007,Pandinus imperator,Scorpion,-81.3482185,61.448214,Estonia,2022-12-13,0,Desert,High,Observation,High
+OCC-007-0088,CREATURE-007,Pandinus imperator,Scorpion,-66.650678,55.723857,Tonga,2026-03-06,0,Desert,High,Preserved Specimen,High
+OCC-007-0089,CREATURE-007,Pandinus imperator,Scorpion,-26.395277,-67.322518,Sudan,2024-11-23,0,Desert,High,Preserved Specimen,High
+OCC-007-0090,CREATURE-007,Pandinus imperator,Scorpion,4.121749,147.631809,Norfolk Island,2023-05-08,0,Desert,High,Preserved Specimen,Low
+OCC-007-0091,CREATURE-007,Pandinus imperator,Scorpion,75.396828,-105.248799,Slovenia,2022-03-29,0,Desert,High,Observation,Medium
+OCC-007-0092,CREATURE-007,Pandinus imperator,Scorpion,-34.449237,-148.132506,Montenegro,2022-12-17,0,Desert,High,Preserved Specimen,Medium
+OCC-007-0093,CREATURE-007,Pandinus imperator,Scorpion,-14.5468145,140.435530,Mauritania,2022-01-18,0,Desert,High,Literature,High
+OCC-007-0094,CREATURE-007,Pandinus imperator,Scorpion,-11.4464715,-24.665400,Montserrat,2022-07-18,0,Desert,High,Observation,Medium
+OCC-007-0095,CREATURE-007,Pandinus imperator,Scorpion,48.0872215,-128.876379,Burkina Faso,2026-01-08,0,Desert,High,Preserved Specimen,High
+OCC-007-0096,CREATURE-007,Pandinus imperator,Scorpion,20.4870185,-148.171134,Falkland Islands (Malvinas),2025-07-18,0,Desert,High,Preserved Specimen,High
+OCC-007-0097,CREATURE-007,Pandinus imperator,Scorpion,-55.938718,-108.762139,Egypt,2021-12-09,0,Desert,High,Preserved Specimen,High
+OCC-007-0098,CREATURE-007,Pandinus imperator,Scorpion,-3.537823,-47.095063,Senegal,2025-06-05,0,Desert,High,Preserved Specimen,High
+OCC-007-0099,CREATURE-007,Pandinus imperator,Scorpion,15.414804,82.776155,Cambodia,2024-02-04,0,Desert,High,Literature,High
+OCC-007-0100,CREATURE-007,Pandinus imperator,Scorpion,-17.866790,157.054442,Israel,2023-01-31,0,Desert,High,Literature,High
+OCC-007-0101,CREATURE-007,Pandinus imperator,Scorpion,-69.728755,160.176314,South Africa,2025-08-10,0,Desert,High,Preserved Specimen,High
