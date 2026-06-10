@@ -2,8 +2,7 @@
 ### End-to-End Power BI Dashboard | Drug Discovery × Conservation Biology
 
 [![Live Dashboard](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/reportEmbed?reportId=c900167b-fb93-4cc7-a649-5aac034bb3bb&autoAuth=true&ctid=51a6364a-0466-47d0-b3ba-1517161ddd0d)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhav%20Limbasiya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhavlimbasiya)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/MadhavLimbasiya)
+
 
 ---
 
