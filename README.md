@@ -160,9 +160,6 @@ Then open any `.csv` file in the `/data/` folder using Excel, Python, or Power B
 
 **Madhav Limbasiya** — Data Analyst passionate about building end-to-end analytics solutions that bridge science, business, and impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/madhavlimbasiya)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/MadhavLimbasiya)
-[![Tableau](https://img.shields.io/badge/Tableau-Public%20Profile-orange?style=flat&logo=tableau)](https://public.tableau.com/app/profile/madhav.limbasiya)
 
 ---
 
